@@ -1,0 +1,5 @@
+@extends('layouts.app')
+@section('title', 'Login Staff')
+@section('content')
+<section class="login-section"><div class="login-card"><div class="login-brand"><span class="brand-mark large">JPU</span><div><strong>CV. JAYA PAKAN UTAMA</strong><small>Panel Admin & Kasir</small></div></div><h1>Login Staff</h1><p>Masuk menggunakan akun admin atau kasir untuk mengelola sistem.</p><form method="POST" action="{{ route('login.submit') }}" class="auth-form">@csrf<div class="field"><label>Email</label><input type="email" name="email" value="{{ old('email') }}" required autofocus autocomplete="email"></div><div class="field"><label>Password</label><input type="password" name="password" required autocomplete="current-password"></div><label class="check-row"><input type="checkbox" name="remember" value="1"><span>Ingat saya</span></label><button class="btn btn-primary btn-lg btn-block">Masuk ke Dashboard</button></form><a href="{{ route('home') }}" class="text-link login-back">← Kembali ke beranda</a></div></section>
+@endsection

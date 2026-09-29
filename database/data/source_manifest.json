@@ -1,0 +1,17 @@
+{
+  "source": "Transaksi CV jaya pakan utama (1).xlsx",
+  "object": "CV Jaya Pakan Utama",
+  "period": "01-07-2025 s.d. 30-06-2026",
+  "transaction_count": 300,
+  "product_count": 15,
+  "minimum_support": 0.2,
+  "minimum_confidence": 0.6,
+  "lift_condition": "> 1",
+  "max_itemset_size": 3,
+  "expected_frequent_1": 8,
+  "expected_frequent_2": 8,
+  "expected_frequent_3": 1,
+  "expected_eligible_rules": 17,
+  "detail_row_count": 841,
+  "note": "Current stock is not present in the source workbook; the development seeder uses 100 units per product so the storefront is immediately testable. Replace with actual stock before production."
+}

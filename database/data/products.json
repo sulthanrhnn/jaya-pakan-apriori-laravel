@@ -1,0 +1,77 @@
+[
+  {
+    "code": "P1",
+    "name": "Pakan Ayam Starter",
+    "price": 365000
+  },
+  {
+    "code": "P2",
+    "name": "Pakan Ayam Grower",
+    "price": 355000
+  },
+  {
+    "code": "P3",
+    "name": "Pakan Ayam Layer",
+    "price": 345000
+  },
+  {
+    "code": "P4",
+    "name": "Pakan Ikan Lele",
+    "price": 285000
+  },
+  {
+    "code": "P5",
+    "name": "Pakan Ikan Nila",
+    "price": 295000
+  },
+  {
+    "code": "P6",
+    "name": "Pakan Kucing",
+    "price": 175000
+  },
+  {
+    "code": "P7",
+    "name": "Vitamin Unggas",
+    "price": 85000
+  },
+  {
+    "code": "P8",
+    "name": "Mineral Ternak",
+    "price": 78000
+  },
+  {
+    "code": "P9",
+    "name": "Dedak Halus",
+    "price": 95000
+  },
+  {
+    "code": "P10",
+    "name": "Jagung Giling",
+    "price": 110000
+  },
+  {
+    "code": "P11",
+    "name": "Konsentrat Sapi",
+    "price": 325000
+  },
+  {
+    "code": "P12",
+    "name": "Pakan Kambing",
+    "price": 275000
+  },
+  {
+    "code": "P13",
+    "name": "Susu Pedet",
+    "price": 185000
+  },
+  {
+    "code": "P14",
+    "name": "Obat Cacing Ternak",
+    "price": 65000
+  },
+  {
+    "code": "P15",
+    "name": "Disinfektan Kandang",
+    "price": 90000
+  }
+]

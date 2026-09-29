@@ -1,0 +1,10 @@
+@extends('layouts.staff')
+@section('title', 'Produk & Stok')
+@section('page-title', 'Produk & Stok')
+@section('page-subtitle', 'Kelola katalog, harga, ketersediaan, dan stok produk')
+@section('content')
+<div class="toolbar"><form method="GET" class="filter-form"><input type="search" name="q" value="{{ request('q') }}" placeholder="Cari kode atau nama produk"><button class="btn btn-secondary">Cari</button>@if(request('q'))<a class="btn btn-ghost" href="{{ route('staff.products.index') }}">Reset</a>@endif</form><a class="btn btn-primary" href="{{ route('staff.products.create') }}">+ Tambah Produk</a></div>
+<section class="panel"><div class="table-wrap"><table class="data-table"><thead><tr><th>Kode</th><th>Produk</th><th>Harga</th><th>Stok</th><th>Status</th><th class="text-right">Aksi</th></tr></thead><tbody>
+@forelse($products as $product)<tr><td><span class="code-pill">{{ $product->code }}</span></td><td><div class="table-product"><div class="product-avatar">{{ $product->code }}</div><div><strong>{{ $product->name }}</strong><small>{{ $product->description ? \Illuminate\Support\Str::limit($product->description, 55) : 'Tidak ada deskripsi' }}</small></div></div></td><td>Rp {{ number_format($product->price,0,',','.') }}</td><td><strong class="{{ $product->stock <= 10 ? 'text-danger' : '' }}">{{ $product->stock }}</strong> unit</td><td><span class="badge badge-{{ $product->is_active ? 'success' : 'neutral' }}">{{ $product->is_active ? 'Aktif' : 'Nonaktif' }}</span></td><td><div class="table-actions"><a class="table-link" href="{{ route('staff.products.edit',$product) }}">Edit</a><form method="POST" action="{{ route('staff.products.destroy',$product) }}" data-confirm="Hapus produk {{ $product->name }} dari katalog? Data transaksi lama tetap tersimpan.">@csrf @method('DELETE')<button class="table-link danger-link">Hapus</button></form></div></td></tr>@empty<tr><td colspan="6" class="empty-cell">Belum ada produk.</td></tr>@endforelse
+</tbody></table></div><div class="panel-footer">{{ $products->links() }}</div></section>
+@endsection

@@ -1,0 +1,226 @@
+[
+  {
+    "size": 1,
+    "codes": [
+      "P7"
+    ],
+    "names": [
+      "Vitamin Unggas"
+    ],
+    "count": 149,
+    "support": 0.4966666666666666,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P8"
+    ],
+    "names": [
+      "Mineral Ternak"
+    ],
+    "count": 87,
+    "support": 0.29,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P9"
+    ],
+    "names": [
+      "Dedak Halus"
+    ],
+    "count": 81,
+    "support": 0.27,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P10"
+    ],
+    "names": [
+      "Jagung Giling"
+    ],
+    "count": 76,
+    "support": 0.2533333333333334,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P1"
+    ],
+    "names": [
+      "Pakan Ayam Starter"
+    ],
+    "count": 72,
+    "support": 0.24,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P2"
+    ],
+    "names": [
+      "Pakan Ayam Grower"
+    ],
+    "count": 66,
+    "support": 0.22,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P4"
+    ],
+    "names": [
+      "Pakan Ikan Lele"
+    ],
+    "count": 66,
+    "support": 0.22,
+    "status": "Frequent"
+  },
+  {
+    "size": 1,
+    "codes": [
+      "P5"
+    ],
+    "names": [
+      "Pakan Ikan Nila"
+    ],
+    "count": 65,
+    "support": 0.2166666666666667,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P7",
+      "P8"
+    ],
+    "names": [
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "count": 80,
+    "support": 0.2666666666666667,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P1",
+      "P7"
+    ],
+    "names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas"
+    ],
+    "count": 68,
+    "support": 0.2266666666666667,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P7",
+      "P10"
+    ],
+    "names": [
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "count": 67,
+    "support": 0.2233333333333333,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P4",
+      "P5"
+    ],
+    "names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila"
+    ],
+    "count": 65,
+    "support": 0.2166666666666667,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P1",
+      "P10"
+    ],
+    "names": [
+      "Pakan Ayam Starter",
+      "Jagung Giling"
+    ],
+    "count": 64,
+    "support": 0.2133333333333333,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P2",
+      "P8"
+    ],
+    "names": [
+      "Pakan Ayam Grower",
+      "Mineral Ternak"
+    ],
+    "count": 62,
+    "support": 0.2066666666666667,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P2",
+      "P7"
+    ],
+    "names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas"
+    ],
+    "count": 60,
+    "support": 0.2,
+    "status": "Frequent"
+  },
+  {
+    "size": 2,
+    "codes": [
+      "P4",
+      "P9"
+    ],
+    "names": [
+      "Pakan Ikan Lele",
+      "Dedak Halus"
+    ],
+    "count": 60,
+    "support": 0.2,
+    "status": "Frequent"
+  },
+  {
+    "size": 3,
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "count": 61,
+    "support": 0.2033333333333333,
+    "status": "Frequent"
+  }
+]

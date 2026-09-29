@@ -1,0 +1,386 @@
+[
+  {
+    "antecedent_codes": [
+      "P5"
+    ],
+    "antecedent_names": [
+      "Pakan Ikan Nila"
+    ],
+    "consequent_codes": [
+      "P4"
+    ],
+    "consequent_names": [
+      "Pakan Ikan Lele"
+    ],
+    "count_a": 65,
+    "count_b": 66,
+    "count_union": 65,
+    "support": 0.2166666666666667,
+    "confidence": 1.0,
+    "support_consequent": 0.22,
+    "lift": 4.545454545454546,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P4"
+    ],
+    "antecedent_names": [
+      "Pakan Ikan Lele"
+    ],
+    "consequent_codes": [
+      "P5"
+    ],
+    "consequent_names": [
+      "Pakan Ikan Nila"
+    ],
+    "count_a": 66,
+    "count_b": 65,
+    "count_union": 65,
+    "support": 0.2166666666666667,
+    "confidence": 0.9848484848484849,
+    "support_consequent": 0.2166666666666667,
+    "lift": 4.545454545454545,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P7",
+      "P10"
+    ],
+    "antecedent_names": [
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "consequent_codes": [
+      "P1"
+    ],
+    "consequent_names": [
+      "Pakan Ayam Starter"
+    ],
+    "count_a": 67,
+    "count_b": 72,
+    "count_union": 61,
+    "support": 0.2033333333333333,
+    "confidence": 0.9104477611940299,
+    "support_consequent": 0.24,
+    "lift": 3.793532338308458,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P1"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Starter"
+    ],
+    "consequent_codes": [
+      "P7",
+      "P10"
+    ],
+    "consequent_names": [
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "count_a": 72,
+    "count_b": 67,
+    "count_union": 61,
+    "support": 0.2033333333333333,
+    "confidence": 0.8472222222222223,
+    "support_consequent": 0.2233333333333333,
+    "lift": 3.793532338308458,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P1",
+      "P7"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas"
+    ],
+    "consequent_codes": [
+      "P10"
+    ],
+    "consequent_names": [
+      "Jagung Giling"
+    ],
+    "count_a": 68,
+    "count_b": 76,
+    "count_union": 61,
+    "support": 0.2033333333333333,
+    "confidence": 0.8970588235294118,
+    "support_consequent": 0.2533333333333334,
+    "lift": 3.541021671826625,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P10"
+    ],
+    "antecedent_names": [
+      "Jagung Giling"
+    ],
+    "consequent_codes": [
+      "P1",
+      "P7"
+    ],
+    "consequent_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas"
+    ],
+    "count_a": 76,
+    "count_b": 68,
+    "count_union": 61,
+    "support": 0.2033333333333333,
+    "confidence": 0.8026315789473684,
+    "support_consequent": 0.2266666666666667,
+    "lift": 3.541021671826625,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P1"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Starter"
+    ],
+    "consequent_codes": [
+      "P10"
+    ],
+    "consequent_names": [
+      "Jagung Giling"
+    ],
+    "count_a": 72,
+    "count_b": 76,
+    "count_union": 64,
+    "support": 0.2133333333333333,
+    "confidence": 0.888888888888889,
+    "support_consequent": 0.2533333333333334,
+    "lift": 3.508771929824561,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P10"
+    ],
+    "antecedent_names": [
+      "Jagung Giling"
+    ],
+    "consequent_codes": [
+      "P1"
+    ],
+    "consequent_names": [
+      "Pakan Ayam Starter"
+    ],
+    "count_a": 76,
+    "count_b": 72,
+    "count_union": 64,
+    "support": 0.2133333333333333,
+    "confidence": 0.8421052631578947,
+    "support_consequent": 0.24,
+    "lift": 3.508771929824561,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P4"
+    ],
+    "antecedent_names": [
+      "Pakan Ikan Lele"
+    ],
+    "consequent_codes": [
+      "P9"
+    ],
+    "consequent_names": [
+      "Dedak Halus"
+    ],
+    "count_a": 66,
+    "count_b": 81,
+    "count_union": 60,
+    "support": 0.2,
+    "confidence": 0.9090909090909092,
+    "support_consequent": 0.27,
+    "lift": 3.367003367003367,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P9"
+    ],
+    "antecedent_names": [
+      "Dedak Halus"
+    ],
+    "consequent_codes": [
+      "P4"
+    ],
+    "consequent_names": [
+      "Pakan Ikan Lele"
+    ],
+    "count_a": 81,
+    "count_b": 66,
+    "count_union": 60,
+    "support": 0.2,
+    "confidence": 0.7407407407407407,
+    "support_consequent": 0.22,
+    "lift": 3.367003367003367,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P2"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Grower"
+    ],
+    "consequent_codes": [
+      "P8"
+    ],
+    "consequent_names": [
+      "Mineral Ternak"
+    ],
+    "count_a": 66,
+    "count_b": 87,
+    "count_union": 62,
+    "support": 0.2066666666666667,
+    "confidence": 0.9393939393939393,
+    "support_consequent": 0.29,
+    "lift": 3.239289446185998,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P8"
+    ],
+    "antecedent_names": [
+      "Mineral Ternak"
+    ],
+    "consequent_codes": [
+      "P2"
+    ],
+    "consequent_names": [
+      "Pakan Ayam Grower"
+    ],
+    "count_a": 87,
+    "count_b": 66,
+    "count_union": 62,
+    "support": 0.2066666666666667,
+    "confidence": 0.7126436781609196,
+    "support_consequent": 0.22,
+    "lift": 3.239289446185998,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P1",
+      "P10"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Starter",
+      "Jagung Giling"
+    ],
+    "consequent_codes": [
+      "P7"
+    ],
+    "consequent_names": [
+      "Vitamin Unggas"
+    ],
+    "count_a": 64,
+    "count_b": 149,
+    "count_union": 61,
+    "support": 0.2033333333333333,
+    "confidence": 0.953125,
+    "support_consequent": 0.4966666666666666,
+    "lift": 1.919043624161074,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P1"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Starter"
+    ],
+    "consequent_codes": [
+      "P7"
+    ],
+    "consequent_names": [
+      "Vitamin Unggas"
+    ],
+    "count_a": 72,
+    "count_b": 149,
+    "count_union": 68,
+    "support": 0.2266666666666667,
+    "confidence": 0.9444444444444444,
+    "support_consequent": 0.4966666666666666,
+    "lift": 1.901565995525727,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P8"
+    ],
+    "antecedent_names": [
+      "Mineral Ternak"
+    ],
+    "consequent_codes": [
+      "P7"
+    ],
+    "consequent_names": [
+      "Vitamin Unggas"
+    ],
+    "count_a": 87,
+    "count_b": 149,
+    "count_union": 80,
+    "support": 0.2666666666666667,
+    "confidence": 0.9195402298850576,
+    "support_consequent": 0.4966666666666666,
+    "lift": 1.851423281647767,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P2"
+    ],
+    "antecedent_names": [
+      "Pakan Ayam Grower"
+    ],
+    "consequent_codes": [
+      "P7"
+    ],
+    "consequent_names": [
+      "Vitamin Unggas"
+    ],
+    "count_a": 66,
+    "count_b": 149,
+    "count_union": 60,
+    "support": 0.2,
+    "confidence": 0.9090909090909092,
+    "support_consequent": 0.4966666666666666,
+    "lift": 1.830384380719951,
+    "status": "Layak"
+  },
+  {
+    "antecedent_codes": [
+      "P10"
+    ],
+    "antecedent_names": [
+      "Jagung Giling"
+    ],
+    "consequent_codes": [
+      "P7"
+    ],
+    "consequent_names": [
+      "Vitamin Unggas"
+    ],
+    "count_a": 76,
+    "count_b": 149,
+    "count_union": 67,
+    "support": 0.2233333333333333,
+    "confidence": 0.8815789473684209,
+    "support_consequent": 0.4966666666666666,
+    "lift": 1.774991169198163,
+    "status": "Layak"
+  }
+]

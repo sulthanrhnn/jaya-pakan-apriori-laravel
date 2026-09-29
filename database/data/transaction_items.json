@@ -1,0 +1,7571 @@
+[
+  {
+    "invoice_number": "TRX-001",
+    "ordered_at": "2025-07-01",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 2,
+    "unit_price": 175000,
+    "subtotal": 350000
+  },
+  {
+    "invoice_number": "TRX-001",
+    "ordered_at": "2025-07-01",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-002",
+    "ordered_at": "2025-07-01",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-002",
+    "ordered_at": "2025-07-01",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-002",
+    "ordered_at": "2025-07-01",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-003",
+    "ordered_at": "2025-07-03",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-003",
+    "ordered_at": "2025-07-03",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 2,
+    "unit_price": 275000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-004",
+    "ordered_at": "2025-07-04",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-004",
+    "ordered_at": "2025-07-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-004",
+    "ordered_at": "2025-07-04",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-005",
+    "ordered_at": "2025-07-04",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-005",
+    "ordered_at": "2025-07-04",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-005",
+    "ordered_at": "2025-07-04",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-006",
+    "ordered_at": "2025-07-07",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-006",
+    "ordered_at": "2025-07-07",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-006",
+    "ordered_at": "2025-07-07",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-007",
+    "ordered_at": "2025-07-08",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-007",
+    "ordered_at": "2025-07-08",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-007",
+    "ordered_at": "2025-07-08",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-008",
+    "ordered_at": "2025-07-09",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-008",
+    "ordered_at": "2025-07-09",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-009",
+    "ordered_at": "2025-07-10",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 3,
+    "unit_price": 325000,
+    "subtotal": 975000
+  },
+  {
+    "invoice_number": "TRX-009",
+    "ordered_at": "2025-07-10",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 4,
+    "unit_price": 185000,
+    "subtotal": 740000
+  },
+  {
+    "invoice_number": "TRX-010",
+    "ordered_at": "2025-07-11",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-010",
+    "ordered_at": "2025-07-11",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-010",
+    "ordered_at": "2025-07-11",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-010",
+    "ordered_at": "2025-07-11",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-011",
+    "ordered_at": "2025-07-12",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 1,
+    "unit_price": 345000,
+    "subtotal": 345000
+  },
+  {
+    "invoice_number": "TRX-011",
+    "ordered_at": "2025-07-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-011",
+    "ordered_at": "2025-07-12",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-011",
+    "ordered_at": "2025-07-12",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-012",
+    "ordered_at": "2025-07-13",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-012",
+    "ordered_at": "2025-07-13",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-012",
+    "ordered_at": "2025-07-13",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-013",
+    "ordered_at": "2025-07-15",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-013",
+    "ordered_at": "2025-07-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-013",
+    "ordered_at": "2025-07-15",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-014",
+    "ordered_at": "2025-07-15",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-014",
+    "ordered_at": "2025-07-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-014",
+    "ordered_at": "2025-07-15",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-015",
+    "ordered_at": "2025-07-16",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-015",
+    "ordered_at": "2025-07-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-015",
+    "ordered_at": "2025-07-16",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-016",
+    "ordered_at": "2025-07-19",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-016",
+    "ordered_at": "2025-07-19",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-016",
+    "ordered_at": "2025-07-19",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-017",
+    "ordered_at": "2025-07-20",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-017",
+    "ordered_at": "2025-07-20",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-017",
+    "ordered_at": "2025-07-20",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-018",
+    "ordered_at": "2025-07-22",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-018",
+    "ordered_at": "2025-07-22",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-018",
+    "ordered_at": "2025-07-22",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-019",
+    "ordered_at": "2025-07-22",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-019",
+    "ordered_at": "2025-07-22",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-019",
+    "ordered_at": "2025-07-22",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-020",
+    "ordered_at": "2025-07-25",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-020",
+    "ordered_at": "2025-07-25",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-020",
+    "ordered_at": "2025-07-25",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-021",
+    "ordered_at": "2025-07-25",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-021",
+    "ordered_at": "2025-07-25",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-021",
+    "ordered_at": "2025-07-25",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-022",
+    "ordered_at": "2025-07-27",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-022",
+    "ordered_at": "2025-07-27",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-022",
+    "ordered_at": "2025-07-27",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-023",
+    "ordered_at": "2025-07-27",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-023",
+    "ordered_at": "2025-07-27",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-023",
+    "ordered_at": "2025-07-27",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-023",
+    "ordered_at": "2025-07-27",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 5,
+    "unit_price": 90000,
+    "subtotal": 450000
+  },
+  {
+    "invoice_number": "TRX-024",
+    "ordered_at": "2025-07-29",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-024",
+    "ordered_at": "2025-07-29",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 4,
+    "unit_price": 90000,
+    "subtotal": 360000
+  },
+  {
+    "invoice_number": "TRX-025",
+    "ordered_at": "2025-07-30",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-025",
+    "ordered_at": "2025-07-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-025",
+    "ordered_at": "2025-07-30",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-026",
+    "ordered_at": "2025-08-01",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 4,
+    "unit_price": 175000,
+    "subtotal": 700000
+  },
+  {
+    "invoice_number": "TRX-026",
+    "ordered_at": "2025-08-01",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-027",
+    "ordered_at": "2025-08-03",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-027",
+    "ordered_at": "2025-08-03",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-027",
+    "ordered_at": "2025-08-03",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-028",
+    "ordered_at": "2025-08-03",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-028",
+    "ordered_at": "2025-08-03",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-028",
+    "ordered_at": "2025-08-03",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-029",
+    "ordered_at": "2025-08-05",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-029",
+    "ordered_at": "2025-08-05",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-030",
+    "ordered_at": "2025-08-10",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-030",
+    "ordered_at": "2025-08-10",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-030",
+    "ordered_at": "2025-08-10",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-031",
+    "ordered_at": "2025-08-10",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-031",
+    "ordered_at": "2025-08-10",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-031",
+    "ordered_at": "2025-08-10",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-031",
+    "ordered_at": "2025-08-10",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-032",
+    "ordered_at": "2025-08-10",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-032",
+    "ordered_at": "2025-08-10",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-032",
+    "ordered_at": "2025-08-10",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-033",
+    "ordered_at": "2025-08-11",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-033",
+    "ordered_at": "2025-08-11",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-033",
+    "ordered_at": "2025-08-11",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-034",
+    "ordered_at": "2025-08-12",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-034",
+    "ordered_at": "2025-08-12",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 2,
+    "unit_price": 185000,
+    "subtotal": 370000
+  },
+  {
+    "invoice_number": "TRX-034",
+    "ordered_at": "2025-08-12",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-034",
+    "ordered_at": "2025-08-12",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 4,
+    "unit_price": 90000,
+    "subtotal": 360000
+  },
+  {
+    "invoice_number": "TRX-035",
+    "ordered_at": "2025-08-13",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-035",
+    "ordered_at": "2025-08-13",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-035",
+    "ordered_at": "2025-08-13",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-036",
+    "ordered_at": "2025-08-15",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-036",
+    "ordered_at": "2025-08-15",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 3,
+    "unit_price": 185000,
+    "subtotal": 555000
+  },
+  {
+    "invoice_number": "TRX-036",
+    "ordered_at": "2025-08-15",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-037",
+    "ordered_at": "2025-08-17",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-037",
+    "ordered_at": "2025-08-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-037",
+    "ordered_at": "2025-08-17",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-038",
+    "ordered_at": "2025-08-18",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-038",
+    "ordered_at": "2025-08-18",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-038",
+    "ordered_at": "2025-08-18",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-039",
+    "ordered_at": "2025-08-18",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-039",
+    "ordered_at": "2025-08-18",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-040",
+    "ordered_at": "2025-08-19",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-040",
+    "ordered_at": "2025-08-19",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-040",
+    "ordered_at": "2025-08-19",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-041",
+    "ordered_at": "2025-08-21",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-041",
+    "ordered_at": "2025-08-21",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-041",
+    "ordered_at": "2025-08-21",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 5,
+    "unit_price": 90000,
+    "subtotal": 450000
+  },
+  {
+    "invoice_number": "TRX-042",
+    "ordered_at": "2025-08-21",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-042",
+    "ordered_at": "2025-08-21",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-042",
+    "ordered_at": "2025-08-21",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-043",
+    "ordered_at": "2025-08-23",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 4,
+    "unit_price": 345000,
+    "subtotal": 1380000
+  },
+  {
+    "invoice_number": "TRX-043",
+    "ordered_at": "2025-08-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-043",
+    "ordered_at": "2025-08-23",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-044",
+    "ordered_at": "2025-08-23",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-044",
+    "ordered_at": "2025-08-23",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-044",
+    "ordered_at": "2025-08-23",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-045",
+    "ordered_at": "2025-08-23",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-045",
+    "ordered_at": "2025-08-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-045",
+    "ordered_at": "2025-08-23",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-046",
+    "ordered_at": "2025-08-24",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-046",
+    "ordered_at": "2025-08-24",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-046",
+    "ordered_at": "2025-08-24",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-047",
+    "ordered_at": "2025-08-24",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 2,
+    "unit_price": 275000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-047",
+    "ordered_at": "2025-08-24",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-048",
+    "ordered_at": "2025-08-26",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-048",
+    "ordered_at": "2025-08-26",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-048",
+    "ordered_at": "2025-08-26",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-049",
+    "ordered_at": "2025-08-28",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-049",
+    "ordered_at": "2025-08-28",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-049",
+    "ordered_at": "2025-08-28",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-050",
+    "ordered_at": "2025-08-29",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-050",
+    "ordered_at": "2025-08-29",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-050",
+    "ordered_at": "2025-08-29",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-050",
+    "ordered_at": "2025-08-29",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-051",
+    "ordered_at": "2025-09-03",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-051",
+    "ordered_at": "2025-09-03",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-051",
+    "ordered_at": "2025-09-03",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-052",
+    "ordered_at": "2025-09-04",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-052",
+    "ordered_at": "2025-09-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-052",
+    "ordered_at": "2025-09-04",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-053",
+    "ordered_at": "2025-09-09",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-053",
+    "ordered_at": "2025-09-09",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-053",
+    "ordered_at": "2025-09-09",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-054",
+    "ordered_at": "2025-09-12",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-054",
+    "ordered_at": "2025-09-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-054",
+    "ordered_at": "2025-09-12",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-055",
+    "ordered_at": "2025-09-12",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-055",
+    "ordered_at": "2025-09-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-055",
+    "ordered_at": "2025-09-12",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-056",
+    "ordered_at": "2025-09-13",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-056",
+    "ordered_at": "2025-09-13",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-056",
+    "ordered_at": "2025-09-13",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-057",
+    "ordered_at": "2025-09-13",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-057",
+    "ordered_at": "2025-09-13",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-057",
+    "ordered_at": "2025-09-13",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-058",
+    "ordered_at": "2025-09-14",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-058",
+    "ordered_at": "2025-09-14",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-058",
+    "ordered_at": "2025-09-14",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-059",
+    "ordered_at": "2025-09-14",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-060",
+    "ordered_at": "2025-09-15",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 2,
+    "unit_price": 175000,
+    "subtotal": 350000
+  },
+  {
+    "invoice_number": "TRX-060",
+    "ordered_at": "2025-09-15",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-061",
+    "ordered_at": "2025-09-16",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-061",
+    "ordered_at": "2025-09-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-061",
+    "ordered_at": "2025-09-16",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-062",
+    "ordered_at": "2025-09-16",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-062",
+    "ordered_at": "2025-09-16",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-062",
+    "ordered_at": "2025-09-16",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-063",
+    "ordered_at": "2025-09-17",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-063",
+    "ordered_at": "2025-09-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-063",
+    "ordered_at": "2025-09-17",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-064",
+    "ordered_at": "2025-09-17",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-064",
+    "ordered_at": "2025-09-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-064",
+    "ordered_at": "2025-09-17",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-065",
+    "ordered_at": "2025-09-18",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-065",
+    "ordered_at": "2025-09-18",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-065",
+    "ordered_at": "2025-09-18",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-065",
+    "ordered_at": "2025-09-18",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-066",
+    "ordered_at": "2025-09-19",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 3,
+    "unit_price": 325000,
+    "subtotal": 975000
+  },
+  {
+    "invoice_number": "TRX-066",
+    "ordered_at": "2025-09-19",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 3,
+    "unit_price": 185000,
+    "subtotal": 555000
+  },
+  {
+    "invoice_number": "TRX-066",
+    "ordered_at": "2025-09-19",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 4,
+    "unit_price": 65000,
+    "subtotal": 260000
+  },
+  {
+    "invoice_number": "TRX-067",
+    "ordered_at": "2025-09-20",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-067",
+    "ordered_at": "2025-09-20",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-067",
+    "ordered_at": "2025-09-20",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 2,
+    "unit_price": 90000,
+    "subtotal": 180000
+  },
+  {
+    "invoice_number": "TRX-068",
+    "ordered_at": "2025-09-25",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-068",
+    "ordered_at": "2025-09-25",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-068",
+    "ordered_at": "2025-09-25",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-068",
+    "ordered_at": "2025-09-25",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-069",
+    "ordered_at": "2025-09-26",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-069",
+    "ordered_at": "2025-09-26",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-069",
+    "ordered_at": "2025-09-26",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-070",
+    "ordered_at": "2025-09-28",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-070",
+    "ordered_at": "2025-09-28",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-070",
+    "ordered_at": "2025-09-28",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-071",
+    "ordered_at": "2025-09-28",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-071",
+    "ordered_at": "2025-09-28",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 5,
+    "unit_price": 275000,
+    "subtotal": 1375000
+  },
+  {
+    "invoice_number": "TRX-071",
+    "ordered_at": "2025-09-28",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-072",
+    "ordered_at": "2025-09-28",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 5,
+    "unit_price": 175000,
+    "subtotal": 875000
+  },
+  {
+    "invoice_number": "TRX-072",
+    "ordered_at": "2025-09-28",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-073",
+    "ordered_at": "2025-09-29",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-073",
+    "ordered_at": "2025-09-29",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-073",
+    "ordered_at": "2025-09-29",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-074",
+    "ordered_at": "2025-09-29",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-074",
+    "ordered_at": "2025-09-29",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-074",
+    "ordered_at": "2025-09-29",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-075",
+    "ordered_at": "2025-09-30",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-075",
+    "ordered_at": "2025-09-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-075",
+    "ordered_at": "2025-09-30",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-076",
+    "ordered_at": "2025-10-01",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 5,
+    "unit_price": 275000,
+    "subtotal": 1375000
+  },
+  {
+    "invoice_number": "TRX-076",
+    "ordered_at": "2025-10-01",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 5,
+    "unit_price": 90000,
+    "subtotal": 450000
+  },
+  {
+    "invoice_number": "TRX-077",
+    "ordered_at": "2025-10-02",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-077",
+    "ordered_at": "2025-10-02",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-077",
+    "ordered_at": "2025-10-02",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-078",
+    "ordered_at": "2025-10-04",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-078",
+    "ordered_at": "2025-10-04",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 2,
+    "unit_price": 275000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-079",
+    "ordered_at": "2025-10-05",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 3,
+    "unit_price": 275000,
+    "subtotal": 825000
+  },
+  {
+    "invoice_number": "TRX-079",
+    "ordered_at": "2025-10-05",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 4,
+    "unit_price": 65000,
+    "subtotal": 260000
+  },
+  {
+    "invoice_number": "TRX-079",
+    "ordered_at": "2025-10-05",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 1,
+    "unit_price": 90000,
+    "subtotal": 90000
+  },
+  {
+    "invoice_number": "TRX-080",
+    "ordered_at": "2025-10-05",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-080",
+    "ordered_at": "2025-10-05",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-080",
+    "ordered_at": "2025-10-05",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-081",
+    "ordered_at": "2025-10-08",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-081",
+    "ordered_at": "2025-10-08",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-081",
+    "ordered_at": "2025-10-08",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-082",
+    "ordered_at": "2025-10-14",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-082",
+    "ordered_at": "2025-10-14",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-082",
+    "ordered_at": "2025-10-14",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-083",
+    "ordered_at": "2025-10-14",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-083",
+    "ordered_at": "2025-10-14",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-084",
+    "ordered_at": "2025-10-16",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-084",
+    "ordered_at": "2025-10-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-084",
+    "ordered_at": "2025-10-16",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-085",
+    "ordered_at": "2025-10-16",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 5,
+    "unit_price": 345000,
+    "subtotal": 1725000
+  },
+  {
+    "invoice_number": "TRX-085",
+    "ordered_at": "2025-10-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-086",
+    "ordered_at": "2025-10-17",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-086",
+    "ordered_at": "2025-10-17",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-086",
+    "ordered_at": "2025-10-17",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-087",
+    "ordered_at": "2025-10-17",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 1,
+    "unit_price": 275000,
+    "subtotal": 275000
+  },
+  {
+    "invoice_number": "TRX-087",
+    "ordered_at": "2025-10-17",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-087",
+    "ordered_at": "2025-10-17",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 4,
+    "unit_price": 90000,
+    "subtotal": 360000
+  },
+  {
+    "invoice_number": "TRX-088",
+    "ordered_at": "2025-10-17",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 1,
+    "unit_price": 175000,
+    "subtotal": 175000
+  },
+  {
+    "invoice_number": "TRX-088",
+    "ordered_at": "2025-10-17",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-089",
+    "ordered_at": "2025-10-19",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 3,
+    "unit_price": 345000,
+    "subtotal": 1035000
+  },
+  {
+    "invoice_number": "TRX-089",
+    "ordered_at": "2025-10-19",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-090",
+    "ordered_at": "2025-10-19",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 1,
+    "unit_price": 175000,
+    "subtotal": 175000
+  },
+  {
+    "invoice_number": "TRX-090",
+    "ordered_at": "2025-10-19",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-091",
+    "ordered_at": "2025-10-20",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 5,
+    "unit_price": 325000,
+    "subtotal": 1625000
+  },
+  {
+    "invoice_number": "TRX-091",
+    "ordered_at": "2025-10-20",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-092",
+    "ordered_at": "2025-10-22",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-092",
+    "ordered_at": "2025-10-22",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-093",
+    "ordered_at": "2025-10-23",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-093",
+    "ordered_at": "2025-10-23",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 5,
+    "unit_price": 275000,
+    "subtotal": 1375000
+  },
+  {
+    "invoice_number": "TRX-094",
+    "ordered_at": "2025-10-23",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-094",
+    "ordered_at": "2025-10-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-094",
+    "ordered_at": "2025-10-23",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-095",
+    "ordered_at": "2025-10-25",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-095",
+    "ordered_at": "2025-10-25",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-095",
+    "ordered_at": "2025-10-25",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-096",
+    "ordered_at": "2025-10-26",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-096",
+    "ordered_at": "2025-10-26",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-096",
+    "ordered_at": "2025-10-26",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-097",
+    "ordered_at": "2025-10-27",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-097",
+    "ordered_at": "2025-10-27",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-097",
+    "ordered_at": "2025-10-27",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-098",
+    "ordered_at": "2025-10-29",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-098",
+    "ordered_at": "2025-10-29",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-098",
+    "ordered_at": "2025-10-29",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-099",
+    "ordered_at": "2025-10-30",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-099",
+    "ordered_at": "2025-10-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-099",
+    "ordered_at": "2025-10-30",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-100",
+    "ordered_at": "2025-10-31",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 5,
+    "unit_price": 345000,
+    "subtotal": 1725000
+  },
+  {
+    "invoice_number": "TRX-100",
+    "ordered_at": "2025-10-31",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-100",
+    "ordered_at": "2025-10-31",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-100",
+    "ordered_at": "2025-10-31",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-101",
+    "ordered_at": "2025-11-04",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-101",
+    "ordered_at": "2025-11-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-101",
+    "ordered_at": "2025-11-04",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-102",
+    "ordered_at": "2025-11-08",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-102",
+    "ordered_at": "2025-11-08",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-102",
+    "ordered_at": "2025-11-08",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-103",
+    "ordered_at": "2025-11-09",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-103",
+    "ordered_at": "2025-11-09",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-103",
+    "ordered_at": "2025-11-09",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-104",
+    "ordered_at": "2025-11-10",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-104",
+    "ordered_at": "2025-11-10",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-104",
+    "ordered_at": "2025-11-10",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-105",
+    "ordered_at": "2025-11-13",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-105",
+    "ordered_at": "2025-11-13",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-105",
+    "ordered_at": "2025-11-13",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-106",
+    "ordered_at": "2025-11-15",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-106",
+    "ordered_at": "2025-11-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-106",
+    "ordered_at": "2025-11-15",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-107",
+    "ordered_at": "2025-11-16",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 5,
+    "unit_price": 325000,
+    "subtotal": 1625000
+  },
+  {
+    "invoice_number": "TRX-107",
+    "ordered_at": "2025-11-16",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-108",
+    "ordered_at": "2025-11-16",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-108",
+    "ordered_at": "2025-11-16",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 2,
+    "unit_price": 90000,
+    "subtotal": 180000
+  },
+  {
+    "invoice_number": "TRX-109",
+    "ordered_at": "2025-11-16",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-109",
+    "ordered_at": "2025-11-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-109",
+    "ordered_at": "2025-11-16",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-109",
+    "ordered_at": "2025-11-16",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-110",
+    "ordered_at": "2025-11-17",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-110",
+    "ordered_at": "2025-11-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-110",
+    "ordered_at": "2025-11-17",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-111",
+    "ordered_at": "2025-11-18",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-111",
+    "ordered_at": "2025-11-18",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-111",
+    "ordered_at": "2025-11-18",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-112",
+    "ordered_at": "2025-11-18",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-112",
+    "ordered_at": "2025-11-18",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 1,
+    "unit_price": 90000,
+    "subtotal": 90000
+  },
+  {
+    "invoice_number": "TRX-113",
+    "ordered_at": "2025-11-18",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-113",
+    "ordered_at": "2025-11-18",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-113",
+    "ordered_at": "2025-11-18",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-113",
+    "ordered_at": "2025-11-18",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-114",
+    "ordered_at": "2025-11-21",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 2,
+    "unit_price": 355000,
+    "subtotal": 710000
+  },
+  {
+    "invoice_number": "TRX-114",
+    "ordered_at": "2025-11-21",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-114",
+    "ordered_at": "2025-11-21",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-115",
+    "ordered_at": "2025-11-21",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-115",
+    "ordered_at": "2025-11-21",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 3,
+    "unit_price": 185000,
+    "subtotal": 555000
+  },
+  {
+    "invoice_number": "TRX-115",
+    "ordered_at": "2025-11-21",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 4,
+    "unit_price": 65000,
+    "subtotal": 260000
+  },
+  {
+    "invoice_number": "TRX-116",
+    "ordered_at": "2025-11-22",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-116",
+    "ordered_at": "2025-11-22",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-117",
+    "ordered_at": "2025-11-22",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-117",
+    "ordered_at": "2025-11-22",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-117",
+    "ordered_at": "2025-11-22",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-118",
+    "ordered_at": "2025-11-23",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-118",
+    "ordered_at": "2025-11-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-118",
+    "ordered_at": "2025-11-23",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-119",
+    "ordered_at": "2025-11-23",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-119",
+    "ordered_at": "2025-11-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-119",
+    "ordered_at": "2025-11-23",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-120",
+    "ordered_at": "2025-11-23",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 4,
+    "unit_price": 345000,
+    "subtotal": 1380000
+  },
+  {
+    "invoice_number": "TRX-120",
+    "ordered_at": "2025-11-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-121",
+    "ordered_at": "2025-11-26",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 2,
+    "unit_price": 175000,
+    "subtotal": 350000
+  },
+  {
+    "invoice_number": "TRX-121",
+    "ordered_at": "2025-11-26",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-122",
+    "ordered_at": "2025-11-28",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-122",
+    "ordered_at": "2025-11-28",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-122",
+    "ordered_at": "2025-11-28",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-123",
+    "ordered_at": "2025-11-29",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-123",
+    "ordered_at": "2025-11-29",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-123",
+    "ordered_at": "2025-11-29",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-124",
+    "ordered_at": "2025-11-29",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-124",
+    "ordered_at": "2025-11-29",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-124",
+    "ordered_at": "2025-11-29",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-125",
+    "ordered_at": "2025-11-30",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-125",
+    "ordered_at": "2025-11-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-125",
+    "ordered_at": "2025-11-30",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-126",
+    "ordered_at": "2025-12-01",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 5,
+    "unit_price": 275000,
+    "subtotal": 1375000
+  },
+  {
+    "invoice_number": "TRX-126",
+    "ordered_at": "2025-12-01",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-126",
+    "ordered_at": "2025-12-01",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 4,
+    "unit_price": 90000,
+    "subtotal": 360000
+  },
+  {
+    "invoice_number": "TRX-127",
+    "ordered_at": "2025-12-02",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-128",
+    "ordered_at": "2025-12-05",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 5,
+    "unit_price": 175000,
+    "subtotal": 875000
+  },
+  {
+    "invoice_number": "TRX-129",
+    "ordered_at": "2025-12-07",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-129",
+    "ordered_at": "2025-12-07",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-129",
+    "ordered_at": "2025-12-07",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-130",
+    "ordered_at": "2025-12-07",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-130",
+    "ordered_at": "2025-12-07",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-131",
+    "ordered_at": "2025-12-09",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-131",
+    "ordered_at": "2025-12-09",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-131",
+    "ordered_at": "2025-12-09",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-132",
+    "ordered_at": "2025-12-09",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-132",
+    "ordered_at": "2025-12-09",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-132",
+    "ordered_at": "2025-12-09",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-133",
+    "ordered_at": "2025-12-10",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-133",
+    "ordered_at": "2025-12-10",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-133",
+    "ordered_at": "2025-12-10",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-134",
+    "ordered_at": "2025-12-12",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 5,
+    "unit_price": 345000,
+    "subtotal": 1725000
+  },
+  {
+    "invoice_number": "TRX-134",
+    "ordered_at": "2025-12-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-134",
+    "ordered_at": "2025-12-12",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-134",
+    "ordered_at": "2025-12-12",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-135",
+    "ordered_at": "2025-12-13",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-135",
+    "ordered_at": "2025-12-13",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-136",
+    "ordered_at": "2025-12-14",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-136",
+    "ordered_at": "2025-12-14",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-136",
+    "ordered_at": "2025-12-14",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-137",
+    "ordered_at": "2025-12-15",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-138",
+    "ordered_at": "2025-12-16",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-138",
+    "ordered_at": "2025-12-16",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-138",
+    "ordered_at": "2025-12-16",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-139",
+    "ordered_at": "2025-12-17",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-139",
+    "ordered_at": "2025-12-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-139",
+    "ordered_at": "2025-12-17",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-140",
+    "ordered_at": "2025-12-20",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-140",
+    "ordered_at": "2025-12-20",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-140",
+    "ordered_at": "2025-12-20",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-141",
+    "ordered_at": "2025-12-21",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-141",
+    "ordered_at": "2025-12-21",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-141",
+    "ordered_at": "2025-12-21",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-142",
+    "ordered_at": "2025-12-23",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-142",
+    "ordered_at": "2025-12-23",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-142",
+    "ordered_at": "2025-12-23",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-143",
+    "ordered_at": "2025-12-26",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-143",
+    "ordered_at": "2025-12-26",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-144",
+    "ordered_at": "2025-12-26",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 4,
+    "unit_price": 175000,
+    "subtotal": 700000
+  },
+  {
+    "invoice_number": "TRX-144",
+    "ordered_at": "2025-12-26",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-145",
+    "ordered_at": "2025-12-27",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-145",
+    "ordered_at": "2025-12-27",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-145",
+    "ordered_at": "2025-12-27",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-145",
+    "ordered_at": "2025-12-27",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-146",
+    "ordered_at": "2025-12-29",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 1,
+    "unit_price": 175000,
+    "subtotal": 175000
+  },
+  {
+    "invoice_number": "TRX-146",
+    "ordered_at": "2025-12-29",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-147",
+    "ordered_at": "2025-12-29",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 3,
+    "unit_price": 345000,
+    "subtotal": 1035000
+  },
+  {
+    "invoice_number": "TRX-147",
+    "ordered_at": "2025-12-29",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-147",
+    "ordered_at": "2025-12-29",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-148",
+    "ordered_at": "2025-12-30",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-148",
+    "ordered_at": "2025-12-30",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-148",
+    "ordered_at": "2025-12-30",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-149",
+    "ordered_at": "2025-12-30",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 3,
+    "unit_price": 275000,
+    "subtotal": 825000
+  },
+  {
+    "invoice_number": "TRX-149",
+    "ordered_at": "2025-12-30",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-150",
+    "ordered_at": "2025-12-31",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-150",
+    "ordered_at": "2025-12-31",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-150",
+    "ordered_at": "2025-12-31",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-151",
+    "ordered_at": "2026-01-02",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-151",
+    "ordered_at": "2026-01-02",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-151",
+    "ordered_at": "2026-01-02",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-152",
+    "ordered_at": "2026-01-04",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-152",
+    "ordered_at": "2026-01-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-152",
+    "ordered_at": "2026-01-04",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-152",
+    "ordered_at": "2026-01-04",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-153",
+    "ordered_at": "2026-01-10",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-153",
+    "ordered_at": "2026-01-10",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-153",
+    "ordered_at": "2026-01-10",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-154",
+    "ordered_at": "2026-01-11",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-154",
+    "ordered_at": "2026-01-11",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-155",
+    "ordered_at": "2026-01-14",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-155",
+    "ordered_at": "2026-01-14",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-155",
+    "ordered_at": "2026-01-14",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-156",
+    "ordered_at": "2026-01-15",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-156",
+    "ordered_at": "2026-01-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-156",
+    "ordered_at": "2026-01-15",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-157",
+    "ordered_at": "2026-01-15",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-157",
+    "ordered_at": "2026-01-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-157",
+    "ordered_at": "2026-01-15",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-158",
+    "ordered_at": "2026-01-15",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-158",
+    "ordered_at": "2026-01-15",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-158",
+    "ordered_at": "2026-01-15",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-159",
+    "ordered_at": "2026-01-16",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 3,
+    "unit_price": 345000,
+    "subtotal": 1035000
+  },
+  {
+    "invoice_number": "TRX-159",
+    "ordered_at": "2026-01-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-160",
+    "ordered_at": "2026-01-16",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-160",
+    "ordered_at": "2026-01-16",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-161",
+    "ordered_at": "2026-01-17",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-161",
+    "ordered_at": "2026-01-17",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-161",
+    "ordered_at": "2026-01-17",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-162",
+    "ordered_at": "2026-01-17",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-162",
+    "ordered_at": "2026-01-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-162",
+    "ordered_at": "2026-01-17",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-163",
+    "ordered_at": "2026-01-18",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-163",
+    "ordered_at": "2026-01-18",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-163",
+    "ordered_at": "2026-01-18",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-164",
+    "ordered_at": "2026-01-22",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-164",
+    "ordered_at": "2026-01-22",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-164",
+    "ordered_at": "2026-01-22",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-164",
+    "ordered_at": "2026-01-22",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-165",
+    "ordered_at": "2026-01-23",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-165",
+    "ordered_at": "2026-01-23",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-166",
+    "ordered_at": "2026-01-23",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-166",
+    "ordered_at": "2026-01-23",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-166",
+    "ordered_at": "2026-01-23",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-167",
+    "ordered_at": "2026-01-25",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-167",
+    "ordered_at": "2026-01-25",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 1,
+    "unit_price": 275000,
+    "subtotal": 275000
+  },
+  {
+    "invoice_number": "TRX-168",
+    "ordered_at": "2026-01-26",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-168",
+    "ordered_at": "2026-01-26",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-168",
+    "ordered_at": "2026-01-26",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-169",
+    "ordered_at": "2026-01-26",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 5,
+    "unit_price": 325000,
+    "subtotal": 1625000
+  },
+  {
+    "invoice_number": "TRX-169",
+    "ordered_at": "2026-01-26",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-170",
+    "ordered_at": "2026-01-26",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 5,
+    "unit_price": 325000,
+    "subtotal": 1625000
+  },
+  {
+    "invoice_number": "TRX-170",
+    "ordered_at": "2026-01-26",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 5,
+    "unit_price": 185000,
+    "subtotal": 925000
+  },
+  {
+    "invoice_number": "TRX-170",
+    "ordered_at": "2026-01-26",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-171",
+    "ordered_at": "2026-01-27",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-171",
+    "ordered_at": "2026-01-27",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-171",
+    "ordered_at": "2026-01-27",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 1,
+    "unit_price": 90000,
+    "subtotal": 90000
+  },
+  {
+    "invoice_number": "TRX-172",
+    "ordered_at": "2026-01-27",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-172",
+    "ordered_at": "2026-01-27",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-173",
+    "ordered_at": "2026-01-30",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-174",
+    "ordered_at": "2026-01-30",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-174",
+    "ordered_at": "2026-01-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-174",
+    "ordered_at": "2026-01-30",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-175",
+    "ordered_at": "2026-01-31",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-175",
+    "ordered_at": "2026-01-31",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-175",
+    "ordered_at": "2026-01-31",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-176",
+    "ordered_at": "2026-02-01",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-176",
+    "ordered_at": "2026-02-01",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-176",
+    "ordered_at": "2026-02-01",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-177",
+    "ordered_at": "2026-02-01",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 4,
+    "unit_price": 345000,
+    "subtotal": 1380000
+  },
+  {
+    "invoice_number": "TRX-177",
+    "ordered_at": "2026-02-01",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-177",
+    "ordered_at": "2026-02-01",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-178",
+    "ordered_at": "2026-02-03",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-178",
+    "ordered_at": "2026-02-03",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-179",
+    "ordered_at": "2026-02-03",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-179",
+    "ordered_at": "2026-02-03",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-179",
+    "ordered_at": "2026-02-03",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-180",
+    "ordered_at": "2026-02-04",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-180",
+    "ordered_at": "2026-02-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-180",
+    "ordered_at": "2026-02-04",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-181",
+    "ordered_at": "2026-02-05",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-181",
+    "ordered_at": "2026-02-05",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-181",
+    "ordered_at": "2026-02-05",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-182",
+    "ordered_at": "2026-02-06",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-182",
+    "ordered_at": "2026-02-06",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-182",
+    "ordered_at": "2026-02-06",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-183",
+    "ordered_at": "2026-02-07",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-183",
+    "ordered_at": "2026-02-07",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-183",
+    "ordered_at": "2026-02-07",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 5,
+    "unit_price": 90000,
+    "subtotal": 450000
+  },
+  {
+    "invoice_number": "TRX-184",
+    "ordered_at": "2026-02-09",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-184",
+    "ordered_at": "2026-02-09",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-184",
+    "ordered_at": "2026-02-09",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-185",
+    "ordered_at": "2026-02-09",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-185",
+    "ordered_at": "2026-02-09",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-185",
+    "ordered_at": "2026-02-09",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-186",
+    "ordered_at": "2026-02-12",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 2,
+    "unit_price": 275000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-186",
+    "ordered_at": "2026-02-12",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-187",
+    "ordered_at": "2026-02-14",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-187",
+    "ordered_at": "2026-02-14",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-187",
+    "ordered_at": "2026-02-14",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-188",
+    "ordered_at": "2026-02-14",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-188",
+    "ordered_at": "2026-02-14",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-189",
+    "ordered_at": "2026-02-15",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-189",
+    "ordered_at": "2026-02-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-189",
+    "ordered_at": "2026-02-15",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-190",
+    "ordered_at": "2026-02-15",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-190",
+    "ordered_at": "2026-02-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-190",
+    "ordered_at": "2026-02-15",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-191",
+    "ordered_at": "2026-02-15",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-191",
+    "ordered_at": "2026-02-15",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-191",
+    "ordered_at": "2026-02-15",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-192",
+    "ordered_at": "2026-02-16",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-192",
+    "ordered_at": "2026-02-16",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-193",
+    "ordered_at": "2026-02-16",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-193",
+    "ordered_at": "2026-02-16",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-194",
+    "ordered_at": "2026-02-18",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-194",
+    "ordered_at": "2026-02-18",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-194",
+    "ordered_at": "2026-02-18",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-195",
+    "ordered_at": "2026-02-19",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-195",
+    "ordered_at": "2026-02-19",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-195",
+    "ordered_at": "2026-02-19",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-196",
+    "ordered_at": "2026-02-21",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-196",
+    "ordered_at": "2026-02-21",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-196",
+    "ordered_at": "2026-02-21",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-197",
+    "ordered_at": "2026-02-24",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-197",
+    "ordered_at": "2026-02-24",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-197",
+    "ordered_at": "2026-02-24",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 3,
+    "unit_price": 65000,
+    "subtotal": 195000
+  },
+  {
+    "invoice_number": "TRX-198",
+    "ordered_at": "2026-02-24",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-198",
+    "ordered_at": "2026-02-24",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-198",
+    "ordered_at": "2026-02-24",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-199",
+    "ordered_at": "2026-02-27",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-199",
+    "ordered_at": "2026-02-27",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-199",
+    "ordered_at": "2026-02-27",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-200",
+    "ordered_at": "2026-02-28",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-200",
+    "ordered_at": "2026-02-28",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-200",
+    "ordered_at": "2026-02-28",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-201",
+    "ordered_at": "2026-03-01",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-201",
+    "ordered_at": "2026-03-01",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-201",
+    "ordered_at": "2026-03-01",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-202",
+    "ordered_at": "2026-03-02",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-202",
+    "ordered_at": "2026-03-02",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-202",
+    "ordered_at": "2026-03-02",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-202",
+    "ordered_at": "2026-03-02",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-203",
+    "ordered_at": "2026-03-03",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 1,
+    "unit_price": 175000,
+    "subtotal": 175000
+  },
+  {
+    "invoice_number": "TRX-203",
+    "ordered_at": "2026-03-03",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-204",
+    "ordered_at": "2026-03-04",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-204",
+    "ordered_at": "2026-03-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-204",
+    "ordered_at": "2026-03-04",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-205",
+    "ordered_at": "2026-03-05",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-205",
+    "ordered_at": "2026-03-05",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-205",
+    "ordered_at": "2026-03-05",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-206",
+    "ordered_at": "2026-03-07",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-206",
+    "ordered_at": "2026-03-07",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-207",
+    "ordered_at": "2026-03-08",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 2,
+    "unit_price": 275000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-207",
+    "ordered_at": "2026-03-08",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 4,
+    "unit_price": 65000,
+    "subtotal": 260000
+  },
+  {
+    "invoice_number": "TRX-207",
+    "ordered_at": "2026-03-08",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 1,
+    "unit_price": 90000,
+    "subtotal": 90000
+  },
+  {
+    "invoice_number": "TRX-208",
+    "ordered_at": "2026-03-09",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-208",
+    "ordered_at": "2026-03-09",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-208",
+    "ordered_at": "2026-03-09",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-209",
+    "ordered_at": "2026-03-11",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 2,
+    "unit_price": 175000,
+    "subtotal": 350000
+  },
+  {
+    "invoice_number": "TRX-209",
+    "ordered_at": "2026-03-11",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-210",
+    "ordered_at": "2026-03-12",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-210",
+    "ordered_at": "2026-03-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-210",
+    "ordered_at": "2026-03-12",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-211",
+    "ordered_at": "2026-03-18",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-211",
+    "ordered_at": "2026-03-18",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-211",
+    "ordered_at": "2026-03-18",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-212",
+    "ordered_at": "2026-03-19",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-212",
+    "ordered_at": "2026-03-19",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-212",
+    "ordered_at": "2026-03-19",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-213",
+    "ordered_at": "2026-03-19",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 4,
+    "unit_price": 175000,
+    "subtotal": 700000
+  },
+  {
+    "invoice_number": "TRX-213",
+    "ordered_at": "2026-03-19",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-213",
+    "ordered_at": "2026-03-19",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-214",
+    "ordered_at": "2026-03-20",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-214",
+    "ordered_at": "2026-03-20",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-214",
+    "ordered_at": "2026-03-20",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-214",
+    "ordered_at": "2026-03-20",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-215",
+    "ordered_at": "2026-03-20",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-215",
+    "ordered_at": "2026-03-20",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-215",
+    "ordered_at": "2026-03-20",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-216",
+    "ordered_at": "2026-03-21",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-216",
+    "ordered_at": "2026-03-21",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-216",
+    "ordered_at": "2026-03-21",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-217",
+    "ordered_at": "2026-03-22",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 3,
+    "unit_price": 345000,
+    "subtotal": 1035000
+  },
+  {
+    "invoice_number": "TRX-217",
+    "ordered_at": "2026-03-22",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-217",
+    "ordered_at": "2026-03-22",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-218",
+    "ordered_at": "2026-03-22",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-218",
+    "ordered_at": "2026-03-22",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 3,
+    "unit_price": 185000,
+    "subtotal": 555000
+  },
+  {
+    "invoice_number": "TRX-219",
+    "ordered_at": "2026-03-25",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-219",
+    "ordered_at": "2026-03-25",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-219",
+    "ordered_at": "2026-03-25",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-220",
+    "ordered_at": "2026-03-25",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-220",
+    "ordered_at": "2026-03-25",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-220",
+    "ordered_at": "2026-03-25",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-221",
+    "ordered_at": "2026-03-25",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-221",
+    "ordered_at": "2026-03-25",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-221",
+    "ordered_at": "2026-03-25",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-222",
+    "ordered_at": "2026-03-26",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-222",
+    "ordered_at": "2026-03-26",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-222",
+    "ordered_at": "2026-03-26",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-223",
+    "ordered_at": "2026-03-27",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-223",
+    "ordered_at": "2026-03-27",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-223",
+    "ordered_at": "2026-03-27",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-224",
+    "ordered_at": "2026-03-30",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-224",
+    "ordered_at": "2026-03-30",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-224",
+    "ordered_at": "2026-03-30",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-225",
+    "ordered_at": "2026-03-31",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-225",
+    "ordered_at": "2026-03-31",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-225",
+    "ordered_at": "2026-03-31",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-226",
+    "ordered_at": "2026-04-03",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-226",
+    "ordered_at": "2026-04-03",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-226",
+    "ordered_at": "2026-04-03",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-227",
+    "ordered_at": "2026-04-05",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-227",
+    "ordered_at": "2026-04-05",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-227",
+    "ordered_at": "2026-04-05",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-228",
+    "ordered_at": "2026-04-05",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-228",
+    "ordered_at": "2026-04-05",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-229",
+    "ordered_at": "2026-04-05",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-229",
+    "ordered_at": "2026-04-05",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 1,
+    "unit_price": 295000,
+    "subtotal": 295000
+  },
+  {
+    "invoice_number": "TRX-229",
+    "ordered_at": "2026-04-05",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-229",
+    "ordered_at": "2026-04-05",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-230",
+    "ordered_at": "2026-04-06",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-230",
+    "ordered_at": "2026-04-06",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-230",
+    "ordered_at": "2026-04-06",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-231",
+    "ordered_at": "2026-04-08",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-231",
+    "ordered_at": "2026-04-08",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-231",
+    "ordered_at": "2026-04-08",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-232",
+    "ordered_at": "2026-04-10",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-232",
+    "ordered_at": "2026-04-10",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-232",
+    "ordered_at": "2026-04-10",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-233",
+    "ordered_at": "2026-04-14",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 1,
+    "unit_price": 175000,
+    "subtotal": 175000
+  },
+  {
+    "invoice_number": "TRX-234",
+    "ordered_at": "2026-04-16",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-234",
+    "ordered_at": "2026-04-16",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-234",
+    "ordered_at": "2026-04-16",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-234",
+    "ordered_at": "2026-04-16",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-235",
+    "ordered_at": "2026-04-16",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-235",
+    "ordered_at": "2026-04-16",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-235",
+    "ordered_at": "2026-04-16",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-236",
+    "ordered_at": "2026-04-17",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-236",
+    "ordered_at": "2026-04-17",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-236",
+    "ordered_at": "2026-04-17",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 3,
+    "unit_price": 65000,
+    "subtotal": 195000
+  },
+  {
+    "invoice_number": "TRX-237",
+    "ordered_at": "2026-04-18",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-237",
+    "ordered_at": "2026-04-18",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-237",
+    "ordered_at": "2026-04-18",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-238",
+    "ordered_at": "2026-04-19",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-238",
+    "ordered_at": "2026-04-19",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-238",
+    "ordered_at": "2026-04-19",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 4,
+    "unit_price": 110000,
+    "subtotal": 440000
+  },
+  {
+    "invoice_number": "TRX-239",
+    "ordered_at": "2026-04-20",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-239",
+    "ordered_at": "2026-04-20",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-239",
+    "ordered_at": "2026-04-20",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-240",
+    "ordered_at": "2026-04-22",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-240",
+    "ordered_at": "2026-04-22",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-240",
+    "ordered_at": "2026-04-22",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-240",
+    "ordered_at": "2026-04-22",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-241",
+    "ordered_at": "2026-04-23",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-241",
+    "ordered_at": "2026-04-23",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 5,
+    "unit_price": 185000,
+    "subtotal": 925000
+  },
+  {
+    "invoice_number": "TRX-242",
+    "ordered_at": "2026-04-23",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 1,
+    "unit_price": 345000,
+    "subtotal": 345000
+  },
+  {
+    "invoice_number": "TRX-242",
+    "ordered_at": "2026-04-23",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-242",
+    "ordered_at": "2026-04-23",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-242",
+    "ordered_at": "2026-04-23",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-243",
+    "ordered_at": "2026-04-24",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-243",
+    "ordered_at": "2026-04-24",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-243",
+    "ordered_at": "2026-04-24",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-244",
+    "ordered_at": "2026-04-26",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 2,
+    "unit_price": 275000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-244",
+    "ordered_at": "2026-04-26",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-245",
+    "ordered_at": "2026-04-26",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-245",
+    "ordered_at": "2026-04-26",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-245",
+    "ordered_at": "2026-04-26",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-246",
+    "ordered_at": "2026-04-28",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-246",
+    "ordered_at": "2026-04-28",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-246",
+    "ordered_at": "2026-04-28",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-247",
+    "ordered_at": "2026-04-29",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-247",
+    "ordered_at": "2026-04-29",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-248",
+    "ordered_at": "2026-04-30",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-248",
+    "ordered_at": "2026-04-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-248",
+    "ordered_at": "2026-04-30",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-249",
+    "ordered_at": "2026-04-30",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 3,
+    "unit_price": 345000,
+    "subtotal": 1035000
+  },
+  {
+    "invoice_number": "TRX-249",
+    "ordered_at": "2026-04-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-249",
+    "ordered_at": "2026-04-30",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-250",
+    "ordered_at": "2026-04-30",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 3,
+    "unit_price": 275000,
+    "subtotal": 825000
+  },
+  {
+    "invoice_number": "TRX-250",
+    "ordered_at": "2026-04-30",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 1,
+    "unit_price": 65000,
+    "subtotal": 65000
+  },
+  {
+    "invoice_number": "TRX-250",
+    "ordered_at": "2026-04-30",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 4,
+    "unit_price": 90000,
+    "subtotal": 360000
+  },
+  {
+    "invoice_number": "TRX-251",
+    "ordered_at": "2026-05-01",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 5,
+    "unit_price": 175000,
+    "subtotal": 875000
+  },
+  {
+    "invoice_number": "TRX-251",
+    "ordered_at": "2026-05-01",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-252",
+    "ordered_at": "2026-05-02",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 5,
+    "unit_price": 365000,
+    "subtotal": 1825000
+  },
+  {
+    "invoice_number": "TRX-252",
+    "ordered_at": "2026-05-02",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-252",
+    "ordered_at": "2026-05-02",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 2,
+    "unit_price": 90000,
+    "subtotal": 180000
+  },
+  {
+    "invoice_number": "TRX-253",
+    "ordered_at": "2026-05-03",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-253",
+    "ordered_at": "2026-05-03",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-253",
+    "ordered_at": "2026-05-03",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-254",
+    "ordered_at": "2026-05-04",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-254",
+    "ordered_at": "2026-05-04",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-254",
+    "ordered_at": "2026-05-04",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-255",
+    "ordered_at": "2026-05-05",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-255",
+    "ordered_at": "2026-05-05",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 4,
+    "unit_price": 65000,
+    "subtotal": 260000
+  },
+  {
+    "invoice_number": "TRX-255",
+    "ordered_at": "2026-05-05",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 2,
+    "unit_price": 90000,
+    "subtotal": 180000
+  },
+  {
+    "invoice_number": "TRX-256",
+    "ordered_at": "2026-05-07",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-256",
+    "ordered_at": "2026-05-07",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-256",
+    "ordered_at": "2026-05-07",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-257",
+    "ordered_at": "2026-05-10",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-257",
+    "ordered_at": "2026-05-10",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-257",
+    "ordered_at": "2026-05-10",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-258",
+    "ordered_at": "2026-05-12",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-258",
+    "ordered_at": "2026-05-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-258",
+    "ordered_at": "2026-05-12",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-259",
+    "ordered_at": "2026-05-12",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 1,
+    "unit_price": 345000,
+    "subtotal": 345000
+  },
+  {
+    "invoice_number": "TRX-259",
+    "ordered_at": "2026-05-12",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 5,
+    "unit_price": 85000,
+    "subtotal": 425000
+  },
+  {
+    "invoice_number": "TRX-259",
+    "ordered_at": "2026-05-12",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-260",
+    "ordered_at": "2026-05-13",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-260",
+    "ordered_at": "2026-05-13",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 5,
+    "unit_price": 185000,
+    "subtotal": 925000
+  },
+  {
+    "invoice_number": "TRX-260",
+    "ordered_at": "2026-05-13",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-261",
+    "ordered_at": "2026-05-13",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 1,
+    "unit_price": 285000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-261",
+    "ordered_at": "2026-05-13",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-261",
+    "ordered_at": "2026-05-13",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-262",
+    "ordered_at": "2026-05-13",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-262",
+    "ordered_at": "2026-05-13",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-262",
+    "ordered_at": "2026-05-13",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-263",
+    "ordered_at": "2026-05-14",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 2,
+    "unit_price": 175000,
+    "subtotal": 350000
+  },
+  {
+    "invoice_number": "TRX-263",
+    "ordered_at": "2026-05-14",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 3,
+    "unit_price": 95000,
+    "subtotal": 285000
+  },
+  {
+    "invoice_number": "TRX-264",
+    "ordered_at": "2026-05-17",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-264",
+    "ordered_at": "2026-05-17",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-265",
+    "ordered_at": "2026-05-17",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-265",
+    "ordered_at": "2026-05-17",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-266",
+    "ordered_at": "2026-05-19",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-266",
+    "ordered_at": "2026-05-19",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 4,
+    "unit_price": 90000,
+    "subtotal": 360000
+  },
+  {
+    "invoice_number": "TRX-267",
+    "ordered_at": "2026-05-21",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 2,
+    "unit_price": 175000,
+    "subtotal": 350000
+  },
+  {
+    "invoice_number": "TRX-268",
+    "ordered_at": "2026-05-25",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-268",
+    "ordered_at": "2026-05-25",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-268",
+    "ordered_at": "2026-05-25",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-269",
+    "ordered_at": "2026-05-26",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-269",
+    "ordered_at": "2026-05-26",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-269",
+    "ordered_at": "2026-05-26",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-270",
+    "ordered_at": "2026-05-26",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 2,
+    "unit_price": 285000,
+    "subtotal": 570000
+  },
+  {
+    "invoice_number": "TRX-270",
+    "ordered_at": "2026-05-26",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 5,
+    "unit_price": 295000,
+    "subtotal": 1475000
+  },
+  {
+    "invoice_number": "TRX-270",
+    "ordered_at": "2026-05-26",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-271",
+    "ordered_at": "2026-05-27",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 4,
+    "unit_price": 275000,
+    "subtotal": 1100000
+  },
+  {
+    "invoice_number": "TRX-272",
+    "ordered_at": "2026-05-29",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-272",
+    "ordered_at": "2026-05-29",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 2,
+    "unit_price": 295000,
+    "subtotal": 590000
+  },
+  {
+    "invoice_number": "TRX-272",
+    "ordered_at": "2026-05-29",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 2,
+    "unit_price": 95000,
+    "subtotal": 190000
+  },
+  {
+    "invoice_number": "TRX-273",
+    "ordered_at": "2026-05-30",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 3,
+    "unit_price": 285000,
+    "subtotal": 855000
+  },
+  {
+    "invoice_number": "TRX-273",
+    "ordered_at": "2026-05-30",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-273",
+    "ordered_at": "2026-05-30",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 1,
+    "unit_price": 95000,
+    "subtotal": 95000
+  },
+  {
+    "invoice_number": "TRX-274",
+    "ordered_at": "2026-05-31",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-274",
+    "ordered_at": "2026-05-31",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-274",
+    "ordered_at": "2026-05-31",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-275",
+    "ordered_at": "2026-05-31",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 1,
+    "unit_price": 345000,
+    "subtotal": 345000
+  },
+  {
+    "invoice_number": "TRX-275",
+    "ordered_at": "2026-05-31",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 4,
+    "unit_price": 78000,
+    "subtotal": 312000
+  },
+  {
+    "invoice_number": "TRX-276",
+    "ordered_at": "2026-06-01",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 4,
+    "unit_price": 325000,
+    "subtotal": 1300000
+  },
+  {
+    "invoice_number": "TRX-276",
+    "ordered_at": "2026-06-01",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-276",
+    "ordered_at": "2026-06-01",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 4,
+    "unit_price": 65000,
+    "subtotal": 260000
+  },
+  {
+    "invoice_number": "TRX-277",
+    "ordered_at": "2026-06-01",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 2,
+    "unit_price": 345000,
+    "subtotal": 690000
+  },
+  {
+    "invoice_number": "TRX-277",
+    "ordered_at": "2026-06-01",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-277",
+    "ordered_at": "2026-06-01",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-278",
+    "ordered_at": "2026-06-04",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 4,
+    "unit_price": 285000,
+    "subtotal": 1140000
+  },
+  {
+    "invoice_number": "TRX-278",
+    "ordered_at": "2026-06-04",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 3,
+    "unit_price": 295000,
+    "subtotal": 885000
+  },
+  {
+    "invoice_number": "TRX-278",
+    "ordered_at": "2026-06-04",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-279",
+    "ordered_at": "2026-06-05",
+    "product_code": "P4",
+    "product_name": "Pakan Ikan Lele",
+    "quantity": 5,
+    "unit_price": 285000,
+    "subtotal": 1425000
+  },
+  {
+    "invoice_number": "TRX-279",
+    "ordered_at": "2026-06-05",
+    "product_code": "P5",
+    "product_name": "Pakan Ikan Nila",
+    "quantity": 4,
+    "unit_price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "invoice_number": "TRX-279",
+    "ordered_at": "2026-06-05",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 5,
+    "unit_price": 95000,
+    "subtotal": 475000
+  },
+  {
+    "invoice_number": "TRX-280",
+    "ordered_at": "2026-06-06",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-280",
+    "ordered_at": "2026-06-06",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-280",
+    "ordered_at": "2026-06-06",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-281",
+    "ordered_at": "2026-06-07",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-281",
+    "ordered_at": "2026-06-07",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-281",
+    "ordered_at": "2026-06-07",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-282",
+    "ordered_at": "2026-06-10",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-282",
+    "ordered_at": "2026-06-10",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-282",
+    "ordered_at": "2026-06-10",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-283",
+    "ordered_at": "2026-06-11",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 1,
+    "unit_price": 325000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-283",
+    "ordered_at": "2026-06-11",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 3,
+    "unit_price": 185000,
+    "subtotal": 555000
+  },
+  {
+    "invoice_number": "TRX-283",
+    "ordered_at": "2026-06-11",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-284",
+    "ordered_at": "2026-06-11",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 3,
+    "unit_price": 355000,
+    "subtotal": 1065000
+  },
+  {
+    "invoice_number": "TRX-284",
+    "ordered_at": "2026-06-11",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-285",
+    "ordered_at": "2026-06-11",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 3,
+    "unit_price": 325000,
+    "subtotal": 975000
+  },
+  {
+    "invoice_number": "TRX-285",
+    "ordered_at": "2026-06-11",
+    "product_code": "P13",
+    "product_name": "Susu Pedet",
+    "quantity": 1,
+    "unit_price": 185000,
+    "subtotal": 185000
+  },
+  {
+    "invoice_number": "TRX-285",
+    "ordered_at": "2026-06-11",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 5,
+    "unit_price": 65000,
+    "subtotal": 325000
+  },
+  {
+    "invoice_number": "TRX-285",
+    "ordered_at": "2026-06-11",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 1,
+    "unit_price": 90000,
+    "subtotal": 90000
+  },
+  {
+    "invoice_number": "TRX-286",
+    "ordered_at": "2026-06-14",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-286",
+    "ordered_at": "2026-06-14",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 5,
+    "unit_price": 110000,
+    "subtotal": 550000
+  },
+  {
+    "invoice_number": "TRX-287",
+    "ordered_at": "2026-06-15",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-287",
+    "ordered_at": "2026-06-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-287",
+    "ordered_at": "2026-06-15",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-288",
+    "ordered_at": "2026-06-15",
+    "product_code": "P11",
+    "product_name": "Konsentrat Sapi",
+    "quantity": 2,
+    "unit_price": 325000,
+    "subtotal": 650000
+  },
+  {
+    "invoice_number": "TRX-288",
+    "ordered_at": "2026-06-15",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 2,
+    "unit_price": 65000,
+    "subtotal": 130000
+  },
+  {
+    "invoice_number": "TRX-289",
+    "ordered_at": "2026-06-15",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 5,
+    "unit_price": 355000,
+    "subtotal": 1775000
+  },
+  {
+    "invoice_number": "TRX-289",
+    "ordered_at": "2026-06-15",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-289",
+    "ordered_at": "2026-06-15",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  },
+  {
+    "invoice_number": "TRX-290",
+    "ordered_at": "2026-06-16",
+    "product_code": "P6",
+    "product_name": "Pakan Kucing",
+    "quantity": 5,
+    "unit_price": 175000,
+    "subtotal": 875000
+  },
+  {
+    "invoice_number": "TRX-290",
+    "ordered_at": "2026-06-16",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-291",
+    "ordered_at": "2026-06-16",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 1,
+    "unit_price": 365000,
+    "subtotal": 365000
+  },
+  {
+    "invoice_number": "TRX-291",
+    "ordered_at": "2026-06-16",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-291",
+    "ordered_at": "2026-06-16",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-292",
+    "ordered_at": "2026-06-17",
+    "product_code": "P9",
+    "product_name": "Dedak Halus",
+    "quantity": 4,
+    "unit_price": 95000,
+    "subtotal": 380000
+  },
+  {
+    "invoice_number": "TRX-292",
+    "ordered_at": "2026-06-17",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 5,
+    "unit_price": 275000,
+    "subtotal": 1375000
+  },
+  {
+    "invoice_number": "TRX-293",
+    "ordered_at": "2026-06-17",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 2,
+    "unit_price": 365000,
+    "subtotal": 730000
+  },
+  {
+    "invoice_number": "TRX-293",
+    "ordered_at": "2026-06-17",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-293",
+    "ordered_at": "2026-06-17",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 2,
+    "unit_price": 110000,
+    "subtotal": 220000
+  },
+  {
+    "invoice_number": "TRX-294",
+    "ordered_at": "2026-06-19",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 1,
+    "unit_price": 355000,
+    "subtotal": 355000
+  },
+  {
+    "invoice_number": "TRX-294",
+    "ordered_at": "2026-06-19",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 2,
+    "unit_price": 85000,
+    "subtotal": 170000
+  },
+  {
+    "invoice_number": "TRX-294",
+    "ordered_at": "2026-06-19",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 5,
+    "unit_price": 78000,
+    "subtotal": 390000
+  },
+  {
+    "invoice_number": "TRX-295",
+    "ordered_at": "2026-06-19",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-295",
+    "ordered_at": "2026-06-19",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-295",
+    "ordered_at": "2026-06-19",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 3,
+    "unit_price": 78000,
+    "subtotal": 234000
+  },
+  {
+    "invoice_number": "TRX-296",
+    "ordered_at": "2026-06-20",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 4,
+    "unit_price": 365000,
+    "subtotal": 1460000
+  },
+  {
+    "invoice_number": "TRX-296",
+    "ordered_at": "2026-06-20",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 1,
+    "unit_price": 85000,
+    "subtotal": 85000
+  },
+  {
+    "invoice_number": "TRX-296",
+    "ordered_at": "2026-06-20",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 3,
+    "unit_price": 110000,
+    "subtotal": 330000
+  },
+  {
+    "invoice_number": "TRX-297",
+    "ordered_at": "2026-06-20",
+    "product_code": "P3",
+    "product_name": "Pakan Ayam Layer",
+    "quantity": 4,
+    "unit_price": 345000,
+    "subtotal": 1380000
+  },
+  {
+    "invoice_number": "TRX-297",
+    "ordered_at": "2026-06-20",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 1,
+    "unit_price": 78000,
+    "subtotal": 78000
+  },
+  {
+    "invoice_number": "TRX-298",
+    "ordered_at": "2026-06-22",
+    "product_code": "P12",
+    "product_name": "Pakan Kambing",
+    "quantity": 1,
+    "unit_price": 275000,
+    "subtotal": 275000
+  },
+  {
+    "invoice_number": "TRX-298",
+    "ordered_at": "2026-06-22",
+    "product_code": "P14",
+    "product_name": "Obat Cacing Ternak",
+    "quantity": 3,
+    "unit_price": 65000,
+    "subtotal": 195000
+  },
+  {
+    "invoice_number": "TRX-298",
+    "ordered_at": "2026-06-22",
+    "product_code": "P15",
+    "product_name": "Disinfektan Kandang",
+    "quantity": 3,
+    "unit_price": 90000,
+    "subtotal": 270000
+  },
+  {
+    "invoice_number": "TRX-299",
+    "ordered_at": "2026-06-26",
+    "product_code": "P1",
+    "product_name": "Pakan Ayam Starter",
+    "quantity": 3,
+    "unit_price": 365000,
+    "subtotal": 1095000
+  },
+  {
+    "invoice_number": "TRX-299",
+    "ordered_at": "2026-06-26",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 4,
+    "unit_price": 85000,
+    "subtotal": 340000
+  },
+  {
+    "invoice_number": "TRX-299",
+    "ordered_at": "2026-06-26",
+    "product_code": "P10",
+    "product_name": "Jagung Giling",
+    "quantity": 1,
+    "unit_price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "invoice_number": "TRX-300",
+    "ordered_at": "2026-06-30",
+    "product_code": "P2",
+    "product_name": "Pakan Ayam Grower",
+    "quantity": 4,
+    "unit_price": 355000,
+    "subtotal": 1420000
+  },
+  {
+    "invoice_number": "TRX-300",
+    "ordered_at": "2026-06-30",
+    "product_code": "P7",
+    "product_name": "Vitamin Unggas",
+    "quantity": 3,
+    "unit_price": 85000,
+    "subtotal": 255000
+  },
+  {
+    "invoice_number": "TRX-300",
+    "ordered_at": "2026-06-30",
+    "product_code": "P8",
+    "product_name": "Mineral Ternak",
+    "quantity": 2,
+    "unit_price": 78000,
+    "subtotal": 156000
+  }
+]

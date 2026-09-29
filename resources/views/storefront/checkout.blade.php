@@ -1,0 +1,15 @@
+@extends('layouts.app')
+@section('title', 'Checkout')
+@section('content')
+<section class="page-hero slim"><div class="container"><span class="eyebrow">CHECKOUT</span><h1>Selesaikan pesanan</h1><p>Isi data penerima, transfer sesuai total, lalu unggah bukti pembayaran.</p></div></section>
+<section class="section"><div class="container checkout-layout">
+    <form method="POST" action="{{ route('checkout.store') }}" enctype="multipart/form-data" class="form-card">@csrf
+        <div class="form-section"><h2>1. Data Pemesan</h2><div class="form-grid two"><div class="field"><label>Nama lengkap <span>*</span></label><input name="customer_name" value="{{ old('customer_name') }}" required maxlength="120" autocomplete="name"></div><div class="field"><label>No. WhatsApp / Telepon <span>*</span></label><input name="customer_phone" value="{{ old('customer_phone') }}" required maxlength="30" placeholder="08xxxxxxxxxx"></div></div><div class="field"><label>Alamat pengiriman <span>*</span></label><textarea name="customer_address" rows="4" required>{{ old('customer_address') }}</textarea></div><div class="field"><label>Catatan pesanan</label><textarea name="customer_note" rows="3" placeholder="Opsional">{{ old('customer_note') }}</textarea></div></div>
+        <div class="form-section"><h2>2. Pembayaran Manual</h2><div class="bank-card"><div class="bank-logo">{{ $bank['bank'] }}</div><div><small>Transfer ke rekening</small><strong>{{ $bank['number'] }}</strong><span>a.n. {{ $bank['name'] }}</span></div><button type="button" class="btn btn-secondary btn-sm" data-copy="{{ $bank['number'] }}">Salin</button></div><p class="small-note">Transfer tepat sebesar <strong>Rp {{ number_format($subtotal, 0, ',', '.') }}</strong>. Sistem tidak menggunakan payment gateway; kasir akan memverifikasi bukti transfer secara manual.</p><div class="field"><label>Upload bukti transfer <span>*</span></label><input type="file" name="payment_proof" accept="image/jpeg,image/png,application/pdf" required><small>JPG, PNG, atau PDF. Maksimal 5 MB.</small></div></div>
+        <button class="btn btn-primary btn-lg btn-block">Buat Pesanan & Terbitkan Invoice</button>
+    </form>
+    <aside class="checkout-side"><div class="summary-card sticky-card"><h3>Ringkasan Pesanan</h3>@foreach($items as $line)<div class="checkout-line"><div><strong>{{ $line['product']->name }}</strong><small>{{ $line['product']->code }} × {{ $line['quantity'] }}</small></div><span>Rp {{ number_format($line['lineTotal'], 0, ',', '.') }}</span></div>@endforeach<hr><div class="summary-row total"><span>Total transfer</span><strong>Rp {{ number_format($subtotal, 0, ',', '.') }}</strong></div><div class="secure-note">🔒 Bukti pembayaran disimpan privat dan hanya dapat dilihat staff.</div></div>
+        @if($recommendations->isNotEmpty())<div class="last-call"><strong>Masih ada rekomendasi Apriori</strong><p>Sebelum checkout, Anda masih dapat menambah produk yang sering dibeli bersama.</p><a class="text-link" href="{{ route('cart.index') }}">Kembali ke keranjang →</a></div>@endif
+    </aside>
+</div></section>
+@endsection

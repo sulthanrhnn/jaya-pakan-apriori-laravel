@@ -1,0 +1,5284 @@
+[
+  {
+    "invoice_number": "TRX-001",
+    "ordered_at": "2025-07-01",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 730000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-002",
+    "ordered_at": "2025-07-01",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1092000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-003",
+    "ordered_at": "2025-07-03",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 1025000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-004",
+    "ordered_at": "2025-07-04",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2215000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-005",
+    "ordered_at": "2025-07-04",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1265000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-006",
+    "ordered_at": "2025-07-07",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1505000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-007",
+    "ordered_at": "2025-07-08",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1545000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-008",
+    "ordered_at": "2025-07-09",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 1675000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-009",
+    "ordered_at": "2025-07-10",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet"
+    ],
+    "product_type_count": 2,
+    "total": 1715000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-010",
+    "ordered_at": "2025-07-11",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2740000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-011",
+    "ordered_at": "2025-07-12",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 1072000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-012",
+    "ordered_at": "2025-07-13",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1277000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-013",
+    "ordered_at": "2025-07-15",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2130000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-014",
+    "ordered_at": "2025-07-15",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1315000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-015",
+    "ordered_at": "2025-07-16",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1850000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-016",
+    "ordered_at": "2025-07-19",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1284000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-017",
+    "ordered_at": "2025-07-20",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1639000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-018",
+    "ordered_at": "2025-07-22",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1121000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-019",
+    "ordered_at": "2025-07-22",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1960000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-020",
+    "ordered_at": "2025-07-25",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2690000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-021",
+    "ordered_at": "2025-07-25",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2235000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-022",
+    "ordered_at": "2025-07-27",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1462000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-023",
+    "ordered_at": "2025-07-27",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 4,
+    "total": 2180000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-024",
+    "ordered_at": "2025-07-29",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 2,
+    "total": 1460000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-025",
+    "ordered_at": "2025-07-30",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1145000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-026",
+    "ordered_at": "2025-08-01",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 1175000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-027",
+    "ordered_at": "2025-08-03",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 936000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-028",
+    "ordered_at": "2025-08-03",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1121000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-029",
+    "ordered_at": "2025-08-05",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P15"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 2,
+    "total": 920000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-030",
+    "ordered_at": "2025-08-10",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2800000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-031",
+    "ordered_at": "2025-08-10",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 4,
+    "total": 1240000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-032",
+    "ordered_at": "2025-08-10",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1985000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-033",
+    "ordered_at": "2025-08-11",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1639000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-034",
+    "ordered_at": "2025-08-12",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 4,
+    "total": 2095000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-035",
+    "ordered_at": "2025-08-13",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1824000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-036",
+    "ordered_at": "2025-08-15",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1985000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-037",
+    "ordered_at": "2025-08-17",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1170000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-038",
+    "ordered_at": "2025-08-18",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1923000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-039",
+    "ordered_at": "2025-08-18",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Jagung Giling"
+    ],
+    "product_type_count": 2,
+    "total": 2155000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-040",
+    "ordered_at": "2025-08-19",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1313000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-041",
+    "ordered_at": "2025-08-21",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1435000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-042",
+    "ordered_at": "2025-08-21",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1010000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-043",
+    "ordered_at": "2025-08-23",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2195000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-044",
+    "ordered_at": "2025-08-23",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2225000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-045",
+    "ordered_at": "2025-08-23",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1790000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-046",
+    "ordered_at": "2025-08-24",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1450000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-047",
+    "ordered_at": "2025-08-24",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 680000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-048",
+    "ordered_at": "2025-08-26",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1938000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-049",
+    "ordered_at": "2025-08-28",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1094000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-050",
+    "ordered_at": "2025-08-29",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 1446000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-051",
+    "ordered_at": "2025-09-03",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1440000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-052",
+    "ordered_at": "2025-09-04",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 766000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-053",
+    "ordered_at": "2025-09-09",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1007000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-054",
+    "ordered_at": "2025-09-12",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2172000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-055",
+    "ordered_at": "2025-09-12",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2410000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-056",
+    "ordered_at": "2025-09-13",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1255000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-057",
+    "ordered_at": "2025-09-13",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1350000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-058",
+    "ordered_at": "2025-09-14",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1920000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-059",
+    "ordered_at": "2025-09-14",
+    "group": "Grower",
+    "codes": [
+      "P2"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower"
+    ],
+    "product_type_count": 1,
+    "total": 1420000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-060",
+    "ordered_at": "2025-09-15",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 635000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-061",
+    "ordered_at": "2025-09-16",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2690000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-062",
+    "ordered_at": "2025-09-16",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 900000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-063",
+    "ordered_at": "2025-09-17",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1035000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-064",
+    "ordered_at": "2025-09-17",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1895000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-065",
+    "ordered_at": "2025-09-18",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2465000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-066",
+    "ordered_at": "2025-09-19",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1790000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-067",
+    "ordered_at": "2025-09-20",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1335000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-068",
+    "ordered_at": "2025-09-25",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2878000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-069",
+    "ordered_at": "2025-09-26",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1845000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-070",
+    "ordered_at": "2025-09-28",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2995000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-071",
+    "ordered_at": "2025-09-28",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12",
+      "P14"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1535000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-072",
+    "ordered_at": "2025-09-28",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 970000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-073",
+    "ordered_at": "2025-09-29",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2505000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-074",
+    "ordered_at": "2025-09-29",
+    "group": "Sapi",
+    "codes": [
+      "P10",
+      "P11",
+      "P13"
+    ],
+    "product_names": [
+      "Jagung Giling",
+      "Konsentrat Sapi",
+      "Susu Pedet"
+    ],
+    "product_type_count": 3,
+    "total": 730000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-075",
+    "ordered_at": "2025-09-30",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1290000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-076",
+    "ordered_at": "2025-10-01",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 2,
+    "total": 1825000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-077",
+    "ordered_at": "2025-10-02",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1730000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-078",
+    "ordered_at": "2025-10-04",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 930000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-079",
+    "ordered_at": "2025-10-05",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1175000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-080",
+    "ordered_at": "2025-10-05",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1825000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-081",
+    "ordered_at": "2025-10-08",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1995000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-082",
+    "ordered_at": "2025-10-14",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2140000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-083",
+    "ordered_at": "2025-10-14",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 2080000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-084",
+    "ordered_at": "2025-10-16",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2240000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-085",
+    "ordered_at": "2025-10-16",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 1810000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-086",
+    "ordered_at": "2025-10-17",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2195000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-087",
+    "ordered_at": "2025-10-17",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 700000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-088",
+    "ordered_at": "2025-10-17",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 460000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-089",
+    "ordered_at": "2025-10-19",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1269000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-090",
+    "ordered_at": "2025-10-19",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 365000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-091",
+    "ordered_at": "2025-10-20",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1690000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-092",
+    "ordered_at": "2025-10-22",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 589000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-093",
+    "ordered_at": "2025-10-23",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 1755000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-094",
+    "ordered_at": "2025-10-23",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1128000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-095",
+    "ordered_at": "2025-10-25",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 840000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-096",
+    "ordered_at": "2025-10-26",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1035000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-097",
+    "ordered_at": "2025-10-27",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2545000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-098",
+    "ordered_at": "2025-10-29",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1845000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-099",
+    "ordered_at": "2025-10-30",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1838000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-100",
+    "ordered_at": "2025-10-31",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 4,
+    "total": 2447000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-101",
+    "ordered_at": "2025-11-04",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2335000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-102",
+    "ordered_at": "2025-11-08",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1845000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-103",
+    "ordered_at": "2025-11-09",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2520000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-104",
+    "ordered_at": "2025-11-10",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1824000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-105",
+    "ordered_at": "2025-11-13",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1107000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-106",
+    "ordered_at": "2025-11-15",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2215000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-107",
+    "ordered_at": "2025-11-16",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet"
+    ],
+    "product_type_count": 2,
+    "total": 1810000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-108",
+    "ordered_at": "2025-11-16",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 2,
+    "total": 1280000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-109",
+    "ordered_at": "2025-11-16",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2686000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-110",
+    "ordered_at": "2025-11-17",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1547000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-111",
+    "ordered_at": "2025-11-18",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2205000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-112",
+    "ordered_at": "2025-11-18",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P15"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 2,
+    "total": 1390000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-113",
+    "ordered_at": "2025-11-18",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 4,
+    "total": 2095000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-114",
+    "ordered_at": "2025-11-21",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1128000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-115",
+    "ordered_at": "2025-11-21",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1465000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-116",
+    "ordered_at": "2025-11-22",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 1435000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-117",
+    "ordered_at": "2025-11-22",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1790000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-118",
+    "ordered_at": "2025-11-23",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1570000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-119",
+    "ordered_at": "2025-11-23",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1094000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-120",
+    "ordered_at": "2025-11-23",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 1550000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-121",
+    "ordered_at": "2025-11-26",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Jagung Giling"
+    ],
+    "product_type_count": 2,
+    "total": 460000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-122",
+    "ordered_at": "2025-11-28",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2710000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-123",
+    "ordered_at": "2025-11-29",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2690000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-124",
+    "ordered_at": "2025-11-29",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1746000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-125",
+    "ordered_at": "2025-11-30",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2179000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-126",
+    "ordered_at": "2025-12-01",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1865000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-127",
+    "ordered_at": "2025-12-02",
+    "group": "Sapi",
+    "codes": [
+      "P11"
+    ],
+    "product_names": [
+      "Konsentrat Sapi"
+    ],
+    "product_type_count": 1,
+    "total": 325000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-128",
+    "ordered_at": "2025-12-05",
+    "group": "Kucing",
+    "codes": [
+      "P6"
+    ],
+    "product_names": [
+      "Pakan Kucing"
+    ],
+    "product_type_count": 1,
+    "total": 875000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-129",
+    "ordered_at": "2025-12-07",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2180000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-130",
+    "ordered_at": "2025-12-07",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 1710000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-131",
+    "ordered_at": "2025-12-09",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 3185000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-132",
+    "ordered_at": "2025-12-09",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2805000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-133",
+    "ordered_at": "2025-12-10",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2900000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-134",
+    "ordered_at": "2025-12-12",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2792000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-135",
+    "ordered_at": "2025-12-13",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila"
+    ],
+    "product_type_count": 2,
+    "total": 580000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-136",
+    "ordered_at": "2025-12-14",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2605000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-137",
+    "ordered_at": "2025-12-15",
+    "group": "Grower",
+    "codes": [
+      "P2"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower"
+    ],
+    "product_type_count": 1,
+    "total": 1775000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-138",
+    "ordered_at": "2025-12-16",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 675000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-139",
+    "ordered_at": "2025-12-17",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2420000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-140",
+    "ordered_at": "2025-12-20",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 2000000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-141",
+    "ordered_at": "2025-12-21",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1547000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-142",
+    "ordered_at": "2025-12-23",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1350000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-143",
+    "ordered_at": "2025-12-26",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila"
+    ],
+    "product_type_count": 2,
+    "total": 865000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-144",
+    "ordered_at": "2025-12-26",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 1080000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-145",
+    "ordered_at": "2025-12-27",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2381000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-146",
+    "ordered_at": "2025-12-29",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 555000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-147",
+    "ordered_at": "2025-12-29",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1198000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-148",
+    "ordered_at": "2025-12-30",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1645000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-149",
+    "ordered_at": "2025-12-30",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 955000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-150",
+    "ordered_at": "2025-12-31",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2595000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-151",
+    "ordered_at": "2026-01-02",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 759000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-152",
+    "ordered_at": "2026-01-04",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 1510000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-153",
+    "ordered_at": "2026-01-10",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2186000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-154",
+    "ordered_at": "2026-01-11",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 975000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-155",
+    "ordered_at": "2026-01-14",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2630000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-156",
+    "ordered_at": "2026-01-15",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1625000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-157",
+    "ordered_at": "2026-01-15",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2264000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-158",
+    "ordered_at": "2026-01-15",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1055000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-159",
+    "ordered_at": "2026-01-16",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 1120000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-160",
+    "ordered_at": "2026-01-16",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1625000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-161",
+    "ordered_at": "2026-01-17",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1550000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-162",
+    "ordered_at": "2026-01-17",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1802000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-163",
+    "ordered_at": "2026-01-18",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2045000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-164",
+    "ordered_at": "2026-01-22",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 4,
+    "total": 1975000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-165",
+    "ordered_at": "2026-01-23",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila"
+    ],
+    "product_type_count": 2,
+    "total": 1720000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-166",
+    "ordered_at": "2026-01-23",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2320000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-167",
+    "ordered_at": "2026-01-25",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 560000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-168",
+    "ordered_at": "2026-01-26",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 938000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-169",
+    "ordered_at": "2026-01-26",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1950000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-170",
+    "ordered_at": "2026-01-26",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2875000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-171",
+    "ordered_at": "2026-01-27",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1320000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-172",
+    "ordered_at": "2026-01-27",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 390000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-173",
+    "ordered_at": "2026-01-30",
+    "group": "Starter",
+    "codes": [
+      "P1"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter"
+    ],
+    "product_type_count": 1,
+    "total": 1460000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-174",
+    "ordered_at": "2026-01-30",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2094000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-175",
+    "ordered_at": "2026-01-31",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1740000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-176",
+    "ordered_at": "2026-02-01",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2545000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-177",
+    "ordered_at": "2026-02-01",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2117000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-178",
+    "ordered_at": "2026-02-03",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 815000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-179",
+    "ordered_at": "2026-02-03",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1940000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-180",
+    "ordered_at": "2026-02-04",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2356000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-181",
+    "ordered_at": "2026-02-05",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1245000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-182",
+    "ordered_at": "2026-02-06",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1483000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-183",
+    "ordered_at": "2026-02-07",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P10",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Jagung Giling",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1145000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-184",
+    "ordered_at": "2026-02-09",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1645000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-185",
+    "ordered_at": "2026-02-09",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 975000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-186",
+    "ordered_at": "2026-02-12",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 680000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-187",
+    "ordered_at": "2026-02-14",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1035000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-188",
+    "ordered_at": "2026-02-14",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas"
+    ],
+    "product_type_count": 2,
+    "total": 860000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-189",
+    "ordered_at": "2026-02-15",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1895000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-190",
+    "ordered_at": "2026-02-15",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2460000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-191",
+    "ordered_at": "2026-02-15",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2130000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-192",
+    "ordered_at": "2026-02-16",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 1480000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-193",
+    "ordered_at": "2026-02-16",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 511000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-194",
+    "ordered_at": "2026-02-18",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1817000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-195",
+    "ordered_at": "2026-02-19",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 865000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-196",
+    "ordered_at": "2026-02-21",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1635000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-197",
+    "ordered_at": "2026-02-24",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1030000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-198",
+    "ordered_at": "2026-02-24",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2495000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-199",
+    "ordered_at": "2026-02-27",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1645000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-200",
+    "ordered_at": "2026-02-28",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1838000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-201",
+    "ordered_at": "2026-03-01",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1920000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-202",
+    "ordered_at": "2026-03-02",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 2942000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-203",
+    "ordered_at": "2026-03-03",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Jagung Giling"
+    ],
+    "product_type_count": 2,
+    "total": 615000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-204",
+    "ordered_at": "2026-03-04",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2350000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-205",
+    "ordered_at": "2026-03-05",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1875000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-206",
+    "ordered_at": "2026-03-07",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 1290000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-207",
+    "ordered_at": "2026-03-08",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 900000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-208",
+    "ordered_at": "2026-03-09",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 2495000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-209",
+    "ordered_at": "2026-03-11",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 540000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-210",
+    "ordered_at": "2026-03-12",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1765000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-211",
+    "ordered_at": "2026-03-18",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1740000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-212",
+    "ordered_at": "2026-03-19",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1505000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-213",
+    "ordered_at": "2026-03-19",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1315000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-214",
+    "ordered_at": "2026-03-20",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 1818000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-215",
+    "ordered_at": "2026-03-20",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1920000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-216",
+    "ordered_at": "2026-03-21",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1802000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-217",
+    "ordered_at": "2026-03-22",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1368000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-218",
+    "ordered_at": "2026-03-22",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet"
+    ],
+    "product_type_count": 2,
+    "total": 1855000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-219",
+    "ordered_at": "2026-03-25",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 3090000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-220",
+    "ordered_at": "2026-03-25",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 865000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-221",
+    "ordered_at": "2026-03-25",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1445000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-222",
+    "ordered_at": "2026-03-26",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1930000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-223",
+    "ordered_at": "2026-03-27",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1485000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-224",
+    "ordered_at": "2026-03-30",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2195000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-225",
+    "ordered_at": "2026-03-31",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1625000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-226",
+    "ordered_at": "2026-04-03",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1985000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-227",
+    "ordered_at": "2026-04-05",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 560000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-228",
+    "ordered_at": "2026-04-05",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 589000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-229",
+    "ordered_at": "2026-04-05",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 4,
+    "total": 1120000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-230",
+    "ordered_at": "2026-04-06",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2395000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-231",
+    "ordered_at": "2026-04-08",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2130000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-232",
+    "ordered_at": "2026-04-10",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2985000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-233",
+    "ordered_at": "2026-04-14",
+    "group": "Kucing",
+    "codes": [
+      "P6"
+    ],
+    "product_names": [
+      "Pakan Kucing"
+    ],
+    "product_type_count": 1,
+    "total": 175000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-234",
+    "ordered_at": "2026-04-16",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 4,
+    "total": 1820000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-235",
+    "ordered_at": "2026-04-16",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 640000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-236",
+    "ordered_at": "2026-04-17",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 705000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-237",
+    "ordered_at": "2026-04-18",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 840000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-238",
+    "ordered_at": "2026-04-19",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1145000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-239",
+    "ordered_at": "2026-04-20",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2235000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-240",
+    "ordered_at": "2026-04-22",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 1452000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-241",
+    "ordered_at": "2026-04-23",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet"
+    ],
+    "product_type_count": 2,
+    "total": 1575000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-242",
+    "ordered_at": "2026-04-23",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak",
+      "Jagung Giling"
+    ],
+    "product_type_count": 4,
+    "total": 1462000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-243",
+    "ordered_at": "2026-04-24",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2205000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-244",
+    "ordered_at": "2026-04-26",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 680000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-245",
+    "ordered_at": "2026-04-26",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1895000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-246",
+    "ordered_at": "2026-04-28",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 915000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-247",
+    "ordered_at": "2026-04-29",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila"
+    ],
+    "product_type_count": 2,
+    "total": 1170000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-248",
+    "ordered_at": "2026-04-30",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 2030000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-249",
+    "ordered_at": "2026-04-30",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1432000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-250",
+    "ordered_at": "2026-04-30",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1250000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-251",
+    "ordered_at": "2026-05-01",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 1065000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-252",
+    "ordered_at": "2026-05-02",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 2345000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-253",
+    "ordered_at": "2026-05-03",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1095000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-254",
+    "ordered_at": "2026-05-04",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1400000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-255",
+    "ordered_at": "2026-05-05",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 1540000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-256",
+    "ordered_at": "2026-05-07",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1010000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-257",
+    "ordered_at": "2026-05-10",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1645000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-258",
+    "ordered_at": "2026-05-12",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1290000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-259",
+    "ordered_at": "2026-05-12",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1004000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-260",
+    "ordered_at": "2026-05-13",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1575000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-261",
+    "ordered_at": "2026-05-13",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1265000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-262",
+    "ordered_at": "2026-05-13",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1938000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-263",
+    "ordered_at": "2026-05-14",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 635000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-264",
+    "ordered_at": "2026-05-17",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila"
+    ],
+    "product_type_count": 2,
+    "total": 2035000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-265",
+    "ordered_at": "2026-05-17",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1625000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-266",
+    "ordered_at": "2026-05-19",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P15"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 2,
+    "total": 1660000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-267",
+    "ordered_at": "2026-05-21",
+    "group": "Kucing",
+    "codes": [
+      "P6"
+    ],
+    "product_names": [
+      "Pakan Kucing"
+    ],
+    "product_type_count": 1,
+    "total": 350000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-268",
+    "ordered_at": "2026-05-25",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1661000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-269",
+    "ordered_at": "2026-05-26",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1483000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-270",
+    "ordered_at": "2026-05-26",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2425000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-271",
+    "ordered_at": "2026-05-27",
+    "group": "Kambing",
+    "codes": [
+      "P12"
+    ],
+    "product_names": [
+      "Pakan Kambing"
+    ],
+    "product_type_count": 1,
+    "total": 1100000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-272",
+    "ordered_at": "2026-05-29",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1635000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-273",
+    "ordered_at": "2026-05-30",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 1835000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-274",
+    "ordered_at": "2026-05-31",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1290000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-275",
+    "ordered_at": "2026-05-31",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 657000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-276",
+    "ordered_at": "2026-06-01",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1745000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-277",
+    "ordered_at": "2026-06-01",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1101000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-278",
+    "ordered_at": "2026-06-04",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 2500000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-279",
+    "ordered_at": "2026-06-05",
+    "group": "Ikan",
+    "codes": [
+      "P4",
+      "P5",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Ikan Lele",
+      "Pakan Ikan Nila",
+      "Dedak Halus"
+    ],
+    "product_type_count": 3,
+    "total": 3080000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-280",
+    "ordered_at": "2026-06-06",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1313000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-281",
+    "ordered_at": "2026-06-07",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 681000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-282",
+    "ordered_at": "2026-06-10",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1375000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-283",
+    "ordered_at": "2026-06-11",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1205000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-284",
+    "ordered_at": "2026-06-11",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1143000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-285",
+    "ordered_at": "2026-06-11",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P13",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Susu Pedet",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 4,
+    "total": 1575000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-286",
+    "ordered_at": "2026-06-14",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Jagung Giling"
+    ],
+    "product_type_count": 2,
+    "total": 1280000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-287",
+    "ordered_at": "2026-06-15",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1205000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-288",
+    "ordered_at": "2026-06-15",
+    "group": "Sapi",
+    "codes": [
+      "P11",
+      "P14"
+    ],
+    "product_names": [
+      "Konsentrat Sapi",
+      "Obat Cacing Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 780000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-289",
+    "ordered_at": "2026-06-15",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 2271000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-290",
+    "ordered_at": "2026-06-16",
+    "group": "Kucing",
+    "codes": [
+      "P6",
+      "P9"
+    ],
+    "product_names": [
+      "Pakan Kucing",
+      "Dedak Halus"
+    ],
+    "product_type_count": 2,
+    "total": 1255000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-291",
+    "ordered_at": "2026-06-16",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 950000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-292",
+    "ordered_at": "2026-06-17",
+    "group": "Kambing",
+    "codes": [
+      "P9",
+      "P12"
+    ],
+    "product_names": [
+      "Dedak Halus",
+      "Pakan Kambing"
+    ],
+    "product_type_count": 2,
+    "total": 1755000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-293",
+    "ordered_at": "2026-06-17",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1205000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-294",
+    "ordered_at": "2026-06-19",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 915000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-295",
+    "ordered_at": "2026-06-19",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1909000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-296",
+    "ordered_at": "2026-06-20",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1875000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-297",
+    "ordered_at": "2026-06-20",
+    "group": "Layer",
+    "codes": [
+      "P3",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Layer",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 2,
+    "total": 1458000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-298",
+    "ordered_at": "2026-06-22",
+    "group": "Kambing",
+    "codes": [
+      "P12",
+      "P14",
+      "P15"
+    ],
+    "product_names": [
+      "Pakan Kambing",
+      "Obat Cacing Ternak",
+      "Disinfektan Kandang"
+    ],
+    "product_type_count": 3,
+    "total": 740000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-299",
+    "ordered_at": "2026-06-26",
+    "group": "Starter",
+    "codes": [
+      "P1",
+      "P7",
+      "P10"
+    ],
+    "product_names": [
+      "Pakan Ayam Starter",
+      "Vitamin Unggas",
+      "Jagung Giling"
+    ],
+    "product_type_count": 3,
+    "total": 1545000,
+    "status": "Selesai"
+  },
+  {
+    "invoice_number": "TRX-300",
+    "ordered_at": "2026-06-30",
+    "group": "Grower",
+    "codes": [
+      "P2",
+      "P7",
+      "P8"
+    ],
+    "product_names": [
+      "Pakan Ayam Grower",
+      "Vitamin Unggas",
+      "Mineral Ternak"
+    ],
+    "product_type_count": 3,
+    "total": 1831000,
+    "status": "Selesai"
+  }
+]

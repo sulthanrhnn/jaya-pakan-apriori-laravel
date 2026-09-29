@@ -1,0 +1,22 @@
+@extends('layouts.staff')
+@section('title','Detail '.$order->invoice_number)
+@section('page-title','Detail Pesanan')
+@section('page-subtitle',$order->invoice_number.' • '.$order->ordered_at->format('d M Y H:i'))
+@section('content')
+<div class="detail-grid">
+    <div class="detail-main">
+        <section class="panel"><div class="panel-head"><div><h2>Item Pesanan</h2><p>{{ $order->items->count() }} jenis produk</p></div><span class="badge badge-{{ $order->source === 'web' ? 'info' : 'neutral' }}">{{ $order->source === 'web' ? 'Pemesanan Web' : 'Dataset Historis' }}</span></div><div class="table-wrap"><table class="data-table"><thead><tr><th>Kode</th><th>Produk</th><th>Qty</th><th>Harga</th><th class="text-right">Subtotal</th></tr></thead><tbody>@foreach($order->items as $item)<tr><td><span class="code-pill">{{ $item->product_code }}</span></td><td>{{ $item->product_name }}</td><td>{{ $item->quantity }}</td><td>Rp {{ number_format($item->unit_price,0,',','.') }}</td><td class="text-right">Rp {{ number_format($item->subtotal,0,',','.') }}</td></tr>@endforeach</tbody><tfoot><tr><td colspan="4"><strong>TOTAL</strong></td><td class="text-right"><strong>Rp {{ number_format($order->grand_total,0,',','.') }}</strong></td></tr></tfoot></table></div></section>
+        @if($order->source === 'web')
+        <section class="panel"><div class="panel-head"><div><h2>Data Pemesan</h2><p>Informasi yang diisi saat checkout.</p></div></div><div class="info-grid"><div><span>Nama</span><strong>{{ $order->customer_name }}</strong></div><div><span>Telepon</span><strong>{{ $order->customer_phone }}</strong></div><div class="full"><span>Alamat</span><strong>{{ $order->customer_address }}</strong></div>@if($order->customer_note)<div class="full"><span>Catatan</span><strong>{{ $order->customer_note }}</strong></div>@endif</div></section>
+        @endif
+        <section class="panel"><div class="panel-head"><div><h2>Riwayat Status</h2><p>Audit perubahan status pesanan.</p></div></div><div class="timeline staff-timeline">@forelse($order->statusLogs->sortBy('created_at') as $log)<div class="timeline-item"><div class="timeline-dot"></div><div><div class="timeline-head"><strong>{{ \App\Models\Order::STATUSES[$log->status] ?? $log->status }}</strong><span>{{ $log->created_at->format('d/m/Y H:i') }}</span></div><p>{{ $log->note ?: 'Tanpa catatan.' }}</p><small>{{ $log->user ? 'Oleh '.$log->user->name : 'Dibuat otomatis oleh sistem' }}</small></div></div>@empty<div class="muted">Transaksi historis tidak memiliki log status terperinci.</div>@endforelse</div></section>
+    </div>
+    <aside class="detail-side">
+        <section class="panel compact-panel"><h3>Status</h3><div class="status-stack"><div><span>Status pesanan</span><strong>{{ $order->status_label }}</strong></div><div><span>Status pembayaran</span><strong>{{ $order->payment_status_label }}</strong></div></div>
+        @if($order->source === 'web' && $order->payment_proof_path)<a class="btn btn-secondary btn-block" target="_blank" href="{{ route('staff.orders.payment-proof',$order) }}">Lihat Bukti Transfer</a>@endif</section>
+        @if($order->source === 'web' && $order->status !== 'cancelled')
+        <section class="panel compact-panel"><h3>Perbarui Status</h3><form method="POST" action="{{ route('staff.orders.update-status',$order) }}" class="stack-form">@csrf @method('PATCH')<div class="field"><label>Pembayaran</label><select name="payment_status">@foreach(\App\Models\Order::PAYMENT_STATUSES as $value=>$label)<option value="{{ $value }}" @selected($order->payment_status===$value)>{{ $label }}</option>@endforeach</select></div><div class="field"><label>Status Pesanan</label><select name="status">@foreach(\App\Models\Order::STATUSES as $value=>$label)<option value="{{ $value }}" @selected($order->status===$value)>{{ $label }}</option>@endforeach</select></div><div class="field"><label>Catatan untuk pelanggan</label><textarea name="note" rows="3" placeholder="Contoh: pembayaran sudah diverifikasi"></textarea></div><button class="btn btn-primary btn-block">Simpan Status</button></form><p class="small-note">Jika status menjadi <strong>Selesai</strong>, aturan Apriori otomatis dihitung ulang agar transaksi baru ikut dianalisis. Pembatalan mengembalikan stok.</p></section>
+        @elseif($order->source === 'historical')<div class="info-callout">Dataset historis bersifat <strong>read-only</strong> agar data penelitian tetap konsisten.</div>@endif
+    </aside>
+</div>
+@endsection

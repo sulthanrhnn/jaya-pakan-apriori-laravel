@@ -1,0 +1,8 @@
+@extends('layouts.staff')
+@section('title','Laporan')
+@section('page-title','Laporan Transaksi')
+@section('page-subtitle','Ringkasan transaksi selesai historis dan pemesanan web')
+@section('content')
+<div class="stats-grid"><div class="stat-card"><div><small>Transaksi Selesai</small><strong>{{ $summary['completed_transactions'] }}</strong><p>{{ $summary['historical'] }} historis • {{ $summary['web'] }} web</p></div></div><div class="stat-card"><div><small>Total Nilai</small><strong class="money-stat">Rp {{ number_format($summary['revenue'],0,',','.') }}</strong><p>Akumulasi transaksi selesai</p></div></div></div>
+<div class="staff-grid-2"><section class="panel"><div class="panel-head"><div><h2>Distribusi Bulanan</h2><p>Jumlah dan nilai transaksi selesai per bulan.</p></div></div><div class="table-wrap limited-table"><table class="data-table"><thead><tr><th>Bulan</th><th>Transaksi</th><th class="text-right">Nilai</th></tr></thead><tbody>@foreach($monthly as $row)<tr><td><strong>{{ $row['month'] }}</strong></td><td>{{ $row['transactions'] }}</td><td class="text-right">Rp {{ number_format($row['revenue'],0,',','.') }}</td></tr>@endforeach</tbody></table></div></section><section class="panel"><div class="panel-head"><div><h2>Produk Terlaris</h2><p>Berdasarkan kuantitas item pada transaksi selesai.</p></div></div><div class="stock-list ranked-list">@foreach($topProducts as $index=>$product)<div class="stock-row"><span class="rank">{{ $index+1 }}</span><div><strong>{{ $product->name }}</strong><small>{{ $product->code }}</small></div><span class="stock-count">{{ (int)($product->sold_quantity??0) }} unit</span></div>@endforeach</div></section></div>
+@endsection
